@@ -1,0 +1,57 @@
+{
+category = Mark;
+color = 9;
+glyphname = "iMatra-sinhala._tha";
+layers = (
+{
+anchors = (
+{
+name = _iMatra;
+pos = (397,760);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(199,953,l),
+(-8,978,o),
+(-130,1239,o),
+(204,1386,cs),
+(524,1527,o),
+(744,1309,o),
+(698,1147,cs)
+);
+}
+);
+width = 863;
+},
+{
+anchors = (
+{
+name = _iMatra;
+pos = (357,800);
+}
+);
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(147,953,l),
+(-23,970,o),
+(-208,1239,o),
+(126,1386,cs),
+(446,1527,o),
+(725,1386,o),
+(698,1193,c)
+);
+}
+);
+width = 866;
+}
+);
+script = sinhala;
+subCategory = Nonspacing;
+}

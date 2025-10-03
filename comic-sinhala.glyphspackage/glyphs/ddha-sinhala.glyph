@@ -2,12 +2,140 @@
 glyphname = "ddha-sinhala";
 layers = (
 {
-layerId = m01;
-width = 600;
+anchors = (
+{
+name = iMatra;
+pos = (520,760);
 },
 {
+name = virama;
+pos = (878,891);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(305,412,l),
+(113,220,o),
+(121,0,o),
+(294,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "-1.70530256582424e-13";
+MainAxisWidth = "2.842170943040401e-13";
+ValidForParentMainAxisWidth = "90";
+};
+}),
+(377,58,o),
+(499,173,o),
+(526,275,c),
+(514,173,o),
+(556,23,o),
+(660,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "-19.95224380493164";
+MainAxisWidth = "15.05820465087891";
+ValidForParentMainAxisWidth = "90";
+};
+}),
+(782,58,o),
+(835,152,o),
+(876,402,cs),
+(975,1007,o),
+(640,1158,o),
+(343,1193,c),
+(449,1131,o),
+(446,1071,o),
+(468,976,cs),
+(498,846,o),
+(645,740,o),
+(823,891,cs)
+);
+},
+{
+closed = 0;
+nodes = (
+(198,646,l),
+(336,723,o),
+(501,713,o),
+(568,598,cs),
+(599,544,o),
+(505,493,o),
+(401,454,cs),
+(35,317,l)
+);
+}
+);
+width = 1007;
+},
+{
+anchors = (
+{
+name = iMatra;
+pos = (487,800);
+},
+{
+name = virama;
+pos = (868,891);
+}
+);
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(305,412,l),
+(113,220,o),
+(121,0,o),
+(294,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "-1.70530256582424e-13";
+MainAxisWidth = "2.842170943040401e-13";
+ValidForParentMainAxisWidth = "90";
+};
+}),
+(377,58,o),
+(499,173,o),
+(526,275,c),
+(514,173,o),
+(556,23,o),
+(660,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "-19.95224380493164";
+MainAxisWidth = "15.05820465087891";
+ValidForParentMainAxisWidth = "90";
+};
+}),
+(782,58,o),
+(835,152,o),
+(876,402,cs),
+(975,1007,o),
+(640,1158,o),
+(343,1193,c),
+(449,1131,o),
+(446,1071,o),
+(468,976,cs),
+(498,846,o),
+(645,740,o),
+(823,891,cs)
+);
+},
+{
+closed = 0;
+nodes = (
+(198,646,l),
+(336,723,o),
+(501,713,o),
+(568,598,cs),
+(599,544,o),
+(505,493,o),
+(401,454,cs),
+(35,317,l)
+);
+}
+);
+width = 1011;
 }
 );
 unicode = 3498;

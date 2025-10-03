@@ -2,12 +2,114 @@
 glyphname = "ttha-sinhala";
 layers = (
 {
-layerId = m01;
-width = 600;
+anchors = (
+{
+name = iMatra;
+pos = (447,760);
 },
 {
+name = virama;
+pos = (798,891);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(370,582,l),
+(20,432,o),
+(-28,23,o),
+(220,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "-1.70530256582424e-13";
+MainAxisWidth = "2.842170943040401e-13";
+ValidForParentMainAxisWidth = "90";
+};
+}),
+(304,44,o),
+(425,173,o),
+(452,275,c),
+(440,173,o),
+(482,23,o),
+(586,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "-19.95224380493164";
+MainAxisWidth = "15.05820465087891";
+ValidForParentMainAxisWidth = "90";
+};
+}),
+(708,58,o),
+(761,152,o),
+(802,402,cs),
+(901,1007,o),
+(566,1158,o),
+(269,1193,c),
+(375,1131,o),
+(372,1071,o),
+(394,976,cs),
+(424,846,o),
+(571,740,o),
+(749,891,cs)
+);
+}
+);
+width = 933;
+},
+{
+anchors = (
+{
+name = iMatra;
+pos = (397,800);
+},
+{
+name = virama;
+pos = (818,891);
+}
+);
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(370,582,l),
+(20,432,o),
+(-28,23,o),
+(220,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "-1.70530256582424e-13";
+MainAxisWidth = "2.842170943040401e-13";
+ValidForParentMainAxisWidth = "90";
+};
+}),
+(304,44,o),
+(425,173,o),
+(452,275,c),
+(440,173,o),
+(482,23,o),
+(586,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "-19.95224380493164";
+MainAxisWidth = "15.05820465087891";
+ValidForParentMainAxisWidth = "90";
+};
+}),
+(708,58,o),
+(761,152,o),
+(802,402,cs),
+(901,1007,o),
+(566,1158,o),
+(269,1193,c),
+(375,1131,o),
+(372,1071,o),
+(394,976,cs),
+(424,846,o),
+(571,740,o),
+(749,891,cs)
+);
+}
+);
+width = 936;
 }
 );
 unicode = 3496;

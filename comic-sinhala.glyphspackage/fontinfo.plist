@@ -17,8 +17,18 @@ tag = opsz;
 );
 classes = (
 {
-code = "ja-sinhala cha-sinhala ra-sinhala";
+code = "ja-sinhala 
+cha-sinhala 
+ra-sinhala
+";
 name = "Ja-Class";
+},
+{
+code = "tha-sinhala
+pha-sinhala
+ttha-sinhala
+ddha-sinhala";
+name = "Tha-Class";
 }
 );
 customParameters = (
@@ -73,6 +83,9 @@ tag = psts;
 {
 code = "sub @Ja-Class iMatra-sinhala' by iMatra-sinhala._ja;
 sub @Ja-Class iiMatra-sinhala' by iiMatra-sinhala._ja;
+
+sub @Tha-Class iMatra-sinhala' by iMatra-sinhala._tha;
+sub @Tha-Class iiMatra-sinhala' by iiMatra-sinhala._tha;
 ";
 tag = abvs;
 }

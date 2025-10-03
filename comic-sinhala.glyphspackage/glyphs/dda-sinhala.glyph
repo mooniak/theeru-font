@@ -9,15 +9,27 @@ closed = 0;
 nodes = (
 (305,412,l),
 (113,220,o),
-(73,39,o),
-(294,39,cs),
-(378,39,o),
+(121,0,o),
+(294,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+MainAxisWidth = 0;
+ValidForParentMainAxisWidth = 90;
+};
+}),
+(377,58,o),
 (499,173,o),
 (526,275,c),
 (514,173,o),
-(553,39,o),
-(633,39,cs),
-(757,39,o),
+(556,23,o),
+(660,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = -19.95224;
+MainAxisWidth = 15.0582;
+ValidForParentMainAxisWidth = 90;
+};
+}),
+(782,58,o),
 (843,152,o),
 (876,402,cs),
 (919,728,o),
@@ -42,7 +54,7 @@ nodes = (
 );
 }
 );
-width = 999;
+width = 998;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
