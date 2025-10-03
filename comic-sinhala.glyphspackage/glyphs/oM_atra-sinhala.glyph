@@ -40,5 +40,6 @@ width = 1902;
 }
 );
 script = sinhala;
+subCategory = "Spacing Combining";
 unicode = 3548;
 }

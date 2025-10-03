@@ -15,6 +15,12 @@ name = "Optical size";
 tag = opsz;
 }
 );
+classes = (
+{
+code = "ja-sinhala cha-sinhala ra-sinhala";
+name = "Ja-Class";
+}
+);
 customParameters = (
 {
 name = "Write DisplayStrings";
@@ -41,10 +47,10 @@ code = "sub va-sinhala virama-sinhala by va-virama-sinhala;
 
 sub dda-sinhala iMatra-sinhala by dd-i-sinhala;
 sub va-sinhala iMatra-sinhala by v-i-sinhala;
-sub ra-sinhala iMatra-sinhala by r-i-sinhala;
+#sub ra-sinhala iMatra-sinhala by r-i-sinhala;
 
 sub va-sinhala iiMatra-sinhala by v-ii-sinhala;
-sub ra-sinhala iiMatra-sinhala by r-ii-sinhala;
+#sub ra-sinhala iiMatra-sinhala by r-ii-sinhala;
 
 sub ka-sinhala uMatra-sinhala by k-u-sinhala;
 sub ta-sinhala uMatra-sinhala by t-u-sinhala;
@@ -65,6 +71,12 @@ sub sha-sinhala uuMatra-sinhala by sh-uu-sinhala;
 sub ra-sinhala uuMatra-sinhala by r-uu-sinhala;
 ";
 tag = psts;
+},
+{
+code = "sub @Ja-Class iMatra-sinhala' by iMatra-sinhala._ja;
+sub @Ja-Class iiMatra-sinhala' by iiMatra-sinhala._ja;
+";
+tag = abvs;
 }
 );
 fontMaster = (

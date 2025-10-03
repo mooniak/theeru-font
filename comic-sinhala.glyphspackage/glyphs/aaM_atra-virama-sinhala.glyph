@@ -30,4 +30,5 @@ width = 510;
 }
 );
 script = sinhala;
+subCategory = Spacing;
 }

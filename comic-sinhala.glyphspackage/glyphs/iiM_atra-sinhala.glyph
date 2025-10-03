@@ -40,5 +40,6 @@ width = 0;
 }
 );
 script = sinhala;
+subCategory = Nonspacing;
 unicode = 3539;
 }

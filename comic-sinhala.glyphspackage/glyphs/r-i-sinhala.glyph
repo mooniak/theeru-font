@@ -1,43 +1,32 @@
 {
+export = 0;
 glyphname = "r-i-sinhala";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (-4,0);
 ref = "ra-sinhala";
 },
 {
-closed = 0;
-nodes = (
-(67,858,l),
-(-54,1181,o),
-(163,1455,o),
-(409,1281,c)
-);
+pos = (8,0);
+ref = "iMatra-sinhala._ja";
 }
 );
-width = 819;
+width = 823;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
 shapes = (
 {
-pos = (-4,0);
 ref = "ra-sinhala";
 },
 {
-closed = 0;
-nodes = (
-(67,858,l),
-(-54,1181,o),
-(163,1455,o),
-(409,1281,c)
-);
+pos = (-2,0);
+ref = "iMatra-sinhala._ja";
 }
 );
-width = 819;
+width = 823;
 }
 );
 }
