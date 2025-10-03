@@ -1,0 +1,34 @@
+{
+category = Mark;
+glyphname = "rrVocalicMatra-sinhala";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "rVocalicMatra-sinhala";
+},
+{
+pos = (558,0);
+ref = "rVocalicMatra-sinhala";
+}
+);
+width = 1116;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+ref = "rVocalicMatra-sinhala";
+},
+{
+pos = (558,0);
+ref = "rVocalicMatra-sinhala";
+}
+);
+width = 1116;
+}
+);
+script = sinhala;
+unicode = 3570;
+}

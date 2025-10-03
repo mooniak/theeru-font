@@ -1,0 +1,105 @@
+{
+glyphname = "g-u-sinhala";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(299,696,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 10;
+};
+}),
+(194,479,o),
+(158,396,o),
+(93,166,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 10;
+};
+}),
+(56,35,o),
+(153,-45,o),
+(299,127,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 10;
+};
+}),
+(610,493,o),
+(628,522,o),
+(703,585,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 10;
+};
+}),
+(841,701,o),
+(900,537,o),
+(861,422,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 10;
+};
+}),
+(801,245,o),
+(749,127,o),
+(703,0,cs),
+(591,-310,o),
+(746,-383,o),
+(974,-159,c)
+);
+}
+);
+width = 989;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(299,696,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 10;
+};
+}),
+(194,479,o),
+(158,396,o),
+(93,166,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 10;
+};
+}),
+(56,35,o),
+(153,-45,o),
+(299,127,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 10;
+};
+}),
+(610,493,o),
+(628,522,o),
+(703,585,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 10;
+};
+}),
+(841,701,o),
+(900,537,o),
+(861,422,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 10;
+};
+}),
+(801,245,o),
+(749,127,o),
+(703,0,cs),
+(591,-310,o),
+(746,-383,o),
+(974,-159,c)
+);
+}
+);
+width = 989;
+}
+);
+}

@@ -1,0 +1,32 @@
+{
+glyphname = "ae-sinhala";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "a-sinhala";
+},
+{
+pos = (810,0);
+ref = "aeMatra-sinhala";
+}
+);
+width = 1378;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+ref = "a-sinhala";
+},
+{
+pos = (810,0);
+ref = "aeMatra-sinhala";
+}
+);
+width = 1378;
+}
+);
+unicode = 3463;
+}

@@ -1,0 +1,135 @@
+{
+glyphname = "bh-u-sinhala";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(353,473,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(294,338,o),
+(278,278,o),
+(247,163,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(212,34,o),
+(307,-48,o),
+(453,124,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(764,490,o),
+(743,522,o),
+(818,585,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(956,701,o),
+(1015,537,o),
+(976,422,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(916,245,o),
+(864,127,o),
+(818,0,cs),
+(706,-310,o),
+(861,-383,o),
+(1089,-159,c)
+);
+},
+{
+closed = 0;
+nodes = (
+(162,593,l),
+(243,665,o),
+(314,724,o),
+(375,736,cs),
+(497,760,o),
+(598,616,o),
+(453,533,cs),
+(353,476,o),
+(163,388,o),
+(55,338,cs)
+);
+}
+);
+width = 1104;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(353,473,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(294,338,o),
+(278,278,o),
+(247,163,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(212,34,o),
+(307,-48,o),
+(453,124,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(764,490,o),
+(743,522,o),
+(818,585,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(956,701,o),
+(1015,537,o),
+(976,422,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(916,245,o),
+(864,127,o),
+(818,0,cs),
+(706,-310,o),
+(861,-383,o),
+(1089,-159,c)
+);
+},
+{
+closed = 0;
+nodes = (
+(162,593,l),
+(243,665,o),
+(314,724,o),
+(375,736,cs),
+(497,760,o),
+(598,616,o),
+(453,533,cs),
+(353,476,o),
+(163,388,o),
+(55,338,cs)
+);
+}
+);
+width = 1104;
+}
+);
+}

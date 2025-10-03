@@ -1,0 +1,66 @@
+{
+glyphname = nine;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(660,637,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 314.62161;
+MainAxisWidth = -8.27322;
+ValidForParentMainAxisWidth = 100;
+};
+}),
+(639,191,o),
+(77,210,o),
+(153,566,cs),
+(180,690,o),
+(271,834,o),
+(458,834,cs),
+(621,834,o),
+(776,665,o),
+(591,238,cs),
+(489,3,o),
+(261,0,o),
+(114,40,cs)
+);
+}
+);
+width = 787;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(660,637,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 314.62161;
+MainAxisWidth = -8.27322;
+ValidForParentMainAxisWidth = 100;
+};
+}),
+(639,191,o),
+(77,210,o),
+(153,566,cs),
+(180,690,o),
+(271,834,o),
+(458,834,cs),
+(621,834,o),
+(776,665,o),
+(591,238,cs),
+(489,3,o),
+(261,0,o),
+(114,40,cs)
+);
+}
+);
+width = 787;
+}
+);
+unicode = 57;
+}

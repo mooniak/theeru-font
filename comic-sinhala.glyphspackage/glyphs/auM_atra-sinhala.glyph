@@ -1,0 +1,44 @@
+{
+category = Mark;
+glyphname = "auMatra-sinhala";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "eMatra-sinhala";
+},
+{
+alignment = 1;
+pos = (732,0);
+ref = dottedCircle;
+},
+{
+pos = (1434,0);
+ref = "lVocalicMatra-sinhala";
+}
+);
+width = 2058;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+ref = "eMatra-sinhala";
+},
+{
+alignment = 1;
+pos = (732,0);
+ref = dottedCircle;
+},
+{
+pos = (1392,0);
+ref = "lVocalicMatra-sinhala";
+}
+);
+width = 2016;
+}
+);
+script = sinhala;
+unicode = 3550;
+}

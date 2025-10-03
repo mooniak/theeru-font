@@ -1,0 +1,56 @@
+{
+category = Mark;
+glyphname = "aaMatra-sinhala";
+layers = (
+{
+anchors = (
+{
+name = virama;
+pos = (288,760);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(83,591,l),
+(189,720,o),
+(485,748,o),
+(367,396,cs),
+(330,285,o),
+(185,116,o),
+(55,35,cs)
+);
+}
+);
+width = 510;
+},
+{
+anchors = (
+{
+name = virama;
+pos = (278,800);
+}
+);
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(83,591,l),
+(189,720,o),
+(485,748,o),
+(367,396,cs),
+(330,285,o),
+(185,116,o),
+(55,35,cs)
+);
+}
+);
+width = 510;
+}
+);
+script = sinhala;
+unicode = 3535;
+}

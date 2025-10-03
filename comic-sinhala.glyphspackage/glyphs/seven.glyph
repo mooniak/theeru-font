@@ -1,0 +1,38 @@
+{
+glyphname = seven;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(64,821,l),
+(561,833,l),
+(447,556,o),
+(299,147,o),
+(263,33,c)
+);
+}
+);
+width = 646;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(64,821,l),
+(561,833,l),
+(447,556,o),
+(299,147,o),
+(263,33,c)
+);
+}
+);
+width = 646;
+}
+);
+unicode = 55;
+}

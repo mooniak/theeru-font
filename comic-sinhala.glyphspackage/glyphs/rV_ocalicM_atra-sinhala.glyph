@@ -1,0 +1,44 @@
+{
+category = Mark;
+glyphname = "rVocalicMatra-sinhala";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(111,609,l),
+(314,763,o),
+(552,802,o),
+(402,40,c),
+(-59,-41,o),
+(31,388,o),
+(384,292,cs)
+);
+}
+);
+width = 558;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(111,609,l),
+(314,763,o),
+(552,802,o),
+(402,40,c),
+(-59,-41,o),
+(31,388,o),
+(384,292,cs)
+);
+}
+);
+width = 558;
+}
+);
+script = sinhala;
+unicode = 3544;
+}

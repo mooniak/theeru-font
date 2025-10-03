@@ -1,0 +1,38 @@
+{
+category = Mark;
+glyphname = "iMatra-sinhala";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(-630,841,l),
+(-530,1161,o),
+(-48,1110,o),
+(-126,806,cs)
+);
+}
+);
+width = 0;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(-630,841,l),
+(-530,1161,o),
+(-48,1110,o),
+(-126,806,cs)
+);
+}
+);
+width = 0;
+}
+);
+script = sinhala;
+unicode = 3538;
+}

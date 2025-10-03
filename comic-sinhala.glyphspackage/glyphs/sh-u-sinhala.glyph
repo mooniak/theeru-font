@@ -1,0 +1,165 @@
+{
+glyphname = "sh-u-sinhala";
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 0;
+nodes = (
+(291,696,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(186,479,o),
+(150,396,o),
+(85,166,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(48,35,o),
+(145,-45,o),
+(291,127,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(602,493,o),
+(620,522,o),
+(695,585,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(833,701,o),
+(892,537,o),
+(853,422,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(793,245,o),
+(741,127,o),
+(695,0,cs),
+(583,-310,o),
+(738,-383,o),
+(966,-159,c)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(289,696,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(184,479,o),
+(148,396,o),
+(83,166,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(46,35,o),
+(143,-45,o),
+(289,127,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(600,493,o),
+(618,522,o),
+(693,585,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(831,701,o),
+(878,269,o),
+(804,-166,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(771,-361,o),
+(888,-383,o),
+(1116,-159,c)
+);
+},
+{
+closed = 0;
+nodes = (
+(823,276,l),
+(484,66,o),
+(510,-202,o),
+(804,-78,cs)
+);
+}
+);
+width = 949;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(307,696,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(202,479,o),
+(166,396,o),
+(101,166,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(64,35,o),
+(161,-45,o),
+(307,127,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(618,493,o),
+(636,522,o),
+(711,585,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(849,701,o),
+(896,269,o),
+(822,-166,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(789,-361,o),
+(998,-473,o),
+(1134,-159,c)
+);
+},
+{
+closed = 0;
+nodes = (
+(841,276,l),
+(502,66,o),
+(528,-202,o),
+(822,-78,cs)
+);
+}
+);
+width = 1015;
+}
+);
+}

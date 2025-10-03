@@ -1,0 +1,46 @@
+{
+category = Mark;
+glyphname = "aeMatra-sinhala";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(98,565,l),
+(358,510,l),
+(240,328,o),
+(166,194,o),
+(104,91,cs),
+(-63,-187,o),
+(297,-251,o),
+(453,-40,cs)
+);
+}
+);
+width = 568;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(98,565,l),
+(358,510,l),
+(240,328,o),
+(166,194,o),
+(104,91,cs),
+(-63,-187,o),
+(297,-251,o),
+(453,-40,cs)
+);
+}
+);
+width = 568;
+}
+);
+script = sinhala;
+unicode = 3536;
+}

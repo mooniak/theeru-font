@@ -1,0 +1,46 @@
+{
+glyphname = period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(215,207,o),
+(87,79,o),
+(163,3,cs),
+(239,-73,o),
+(367,55,o),
+(291,131,cs)
+);
+}
+);
+userData = {
+"Letterink-ComputationAllowed" = NO;
+};
+width = 454;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 1;
+nodes = (
+(186,306,o),
+(7,128,o),
+(121,15,cs),
+(234,-99,o),
+(413,79,o),
+(299,193,cs)
+);
+}
+);
+userData = {
+"Letterink-ComputationAllowed" = NO;
+};
+width = 420;
+}
+);
+unicode = 46;
+}
