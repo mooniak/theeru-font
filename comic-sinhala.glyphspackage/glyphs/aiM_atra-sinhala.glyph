@@ -30,6 +30,6 @@ width = 1464;
 }
 );
 script = sinhala;
-subCategory = "Spacing Combining";
+subCategory = Spacing;
 unicode = 3547;
 }

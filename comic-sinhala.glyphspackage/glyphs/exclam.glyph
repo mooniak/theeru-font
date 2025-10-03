@@ -3,11 +3,37 @@ glyphname = exclam;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(276,955,l),
+(149,296,l)
+);
+},
+{
+pos = (-108,0);
+ref = period;
+}
+);
+width = 391;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(276,955,l),
+(152,382,l)
+);
+},
+{
+pos = (-108,0);
+ref = period;
+}
+);
+width = 391;
 }
 );
 unicode = 33;
