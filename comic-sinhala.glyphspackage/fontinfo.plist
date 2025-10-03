@@ -15,6 +15,12 @@ name = "Optical size";
 tag = opsz;
 }
 );
+customParameters = (
+{
+name = "Write DisplayStrings";
+value = 0;
+}
+);
 date = "2024-07-24 10:41:21 +0000";
 familyName = ComicSinhala;
 featurePrefixes = (
@@ -40,7 +46,9 @@ sub ra-sinhala iiMatra-sinhala by r-ii-sinhala;
 sub ka-sinhala uMatra-sinhala by k-u-sinhala;
 sub ta-sinhala uMatra-sinhala by t-u-sinhala;
 sub ga-sinhala uMatra-sinhala by g-u-sinhala;
+sub nnga-sinhala uMatra-sinhala by nng-u-sinhala;
 sub bha-sinhala uMatra-sinhala by bh-u-sinhala;
+sub sha-sinhala uMatra-sinhala by sh-u-sinhala;
 sub ra-sinhala uMatra-sinhala by r-u-sinhala;
 sub la-sinhala uMatra-sinhala by l-u-sinhala;
 
@@ -48,7 +56,9 @@ sub la-sinhala uMatra-sinhala by l-u-sinhala;
 sub ka-sinhala uuMatra-sinhala by k-uu-sinhala;
 sub ta-sinhala uuMatra-sinhala by t-uu-sinhala;
 sub ga-sinhala uuMatra-sinhala by g-uu-sinhala;
+sub nnga-sinhala uuMatra-sinhala by nng-uu-sinhala;
 sub bha-sinhala uuMatra-sinhala by bh-uu-sinhala;
+sub sha-sinhala uuMatra-sinhala by sh-uu-sinhala;
 sub ra-sinhala uuMatra-sinhala by r-uu-sinhala;
 ";
 tag = psts;
