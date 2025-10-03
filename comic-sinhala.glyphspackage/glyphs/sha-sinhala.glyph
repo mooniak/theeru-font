@@ -2,6 +2,16 @@
 glyphname = "sha-sinhala";
 layers = (
 {
+anchors = (
+{
+name = iMatra;
+pos = (567,760);
+},
+{
+name = virama;
+pos = (738,710);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -55,6 +65,16 @@ nodes = (
 width = 949;
 },
 {
+anchors = (
+{
+name = iMatra;
+pos = (567,800);
+},
+{
+name = virama;
+pos = (788,750);
+}
+);
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
 shapes = (
 {

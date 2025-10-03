@@ -3,6 +3,12 @@ category = Mark;
 glyphname = "iiMatra-sinhala";
 layers = (
 {
+anchors = (
+{
+name = _iMatra;
+pos = (-468,760);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -21,6 +27,12 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _iMatra;
+pos = (-468,800);
+}
+);
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
 shapes = (
 {

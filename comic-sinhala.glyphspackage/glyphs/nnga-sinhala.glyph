@@ -2,6 +2,16 @@
 glyphname = "nnga-sinhala";
 layers = (
 {
+anchors = (
+{
+name = iMatra;
+pos = (857,760);
+},
+{
+name = virama;
+pos = (1038,710);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -46,6 +56,16 @@ AngleInDegrees = "10";
 width = 1240;
 },
 {
+anchors = (
+{
+name = iMatra;
+pos = (857,800);
+},
+{
+name = virama;
+pos = (1028,750);
+}
+);
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
 shapes = (
 {

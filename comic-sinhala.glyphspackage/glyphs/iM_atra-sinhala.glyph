@@ -3,30 +3,42 @@ category = Mark;
 glyphname = "iMatra-sinhala";
 layers = (
 {
+anchors = (
+{
+name = _iMatra;
+pos = (-368,760);
+}
+);
 layerId = m01;
 shapes = (
 {
 closed = 0;
 nodes = (
-(-630,841,l),
-(-530,1161,o),
-(-48,1110,o),
-(-126,806,cs)
+(-630,881,l),
+(-530,1201,o),
+(-48,1150,o),
+(-126,846,cs)
 );
 }
 );
 width = 0;
 },
 {
+anchors = (
+{
+name = _iMatra;
+pos = (-368,800);
+}
+);
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
 shapes = (
 {
 closed = 0;
 nodes = (
-(-630,841,l),
-(-530,1161,o),
-(-48,1110,o),
-(-126,806,cs)
+(-630,881,l),
+(-530,1201,o),
+(-48,1150,o),
+(-126,846,cs)
 );
 }
 );
