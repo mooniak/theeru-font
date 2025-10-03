@@ -1,7 +1,14 @@
 {
+category = Mark;
 glyphname = "rakar-sinhala";
 layers = (
 {
+anchors = (
+{
+name = _rakar;
+pos = (-177,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -20,6 +27,12 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _rakar;
+pos = (-177,0);
+}
+);
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
 shapes = (
 {
@@ -38,4 +51,6 @@ nodes = (
 width = 0;
 }
 );
+script = Sinhala;
+subCategory = Nonspacing;
 }

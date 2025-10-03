@@ -2,6 +2,12 @@
 glyphname = "ma-sinhala";
 layers = (
 {
+anchors = (
+{
+name = rakar;
+pos = (843,0);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -29,6 +35,12 @@ nodes = (
 width = 969;
 },
 {
+anchors = (
+{
+name = rakar;
+pos = (843,0);
+}
+);
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
 shapes = (
 {

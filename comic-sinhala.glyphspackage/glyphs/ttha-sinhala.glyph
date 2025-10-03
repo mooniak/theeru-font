@@ -8,6 +8,10 @@ name = iMatra;
 pos = (447,760);
 },
 {
+name = rakar;
+pos = (773,0);
+},
+{
 name = virama;
 pos = (798,891);
 }
@@ -61,6 +65,10 @@ anchors = (
 {
 name = iMatra;
 pos = (397,800);
+},
+{
+name = rakar;
+pos = (773,0);
 },
 {
 name = virama;

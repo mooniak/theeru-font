@@ -2,6 +2,12 @@
 glyphname = "bha-sinhala";
 layers = (
 {
+anchors = (
+{
+name = rakar;
+pos = (993,0);
+}
+);
 background = {
 shapes = (
 {
@@ -105,6 +111,12 @@ nodes = (
 width = 1074;
 },
 {
+anchors = (
+{
+name = rakar;
+pos = (993,0);
+}
+);
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
 shapes = (
 {
