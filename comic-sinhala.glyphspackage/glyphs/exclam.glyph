@@ -7,8 +7,16 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(276,955,l),
-(149,296,l)
+(276,955,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(149,296,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+})
 );
 },
 {
@@ -24,8 +32,16 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(276,955,l),
-(152,382,l)
+(276,955,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(152,382,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+})
 );
 },
 {

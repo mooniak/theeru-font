@@ -30,7 +30,7 @@ AngleInDegrees = 10;
 (158,396,o),
 (93,166,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 10;
+AngleInDegrees = 9.99999;
 };
 }),
 (56,35,o),
@@ -51,7 +51,7 @@ AngleInDegrees = 10;
 (890,264,o),
 (814,-166,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 10;
+AngleInDegrees = 9.99999;
 };
 })
 );
@@ -95,7 +95,7 @@ AngleInDegrees = 10;
 (158,396,o),
 (93,166,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 10;
+AngleInDegrees = 9.99999;
 };
 }),
 (56,35,o),
@@ -116,7 +116,7 @@ AngleInDegrees = 10;
 (890,264,o),
 (814,-166,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 10;
+AngleInDegrees = 9.99999;
 };
 })
 );

@@ -8,16 +8,40 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(94,638,l),
-(401,614,l),
-(132,429,l),
-(401,397,l),
+(94,638,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(401,614,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(132,429,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(401,397,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 0.00001;
+};
+}),
 (263,227,o),
 (196,164,o),
-(134,61,cs),
+(134,61,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0.00001;
+};
+}),
 (-33,-217,o),
 (327,-281,o),
-(483,-70,cs)
+(483,-70,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+})
 );
 }
 );
@@ -29,16 +53,40 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(94,638,l),
-(401,614,l),
-(132,429,l),
-(401,397,l),
+(94,638,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(401,614,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(132,429,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(401,397,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 0.00001;
+};
+}),
 (263,227,o),
 (196,164,o),
-(134,61,cs),
+(134,61,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0.00001;
+};
+}),
 (-33,-217,o),
 (327,-281,o),
-(483,-70,cs)
+(483,-70,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+})
 );
 }
 );

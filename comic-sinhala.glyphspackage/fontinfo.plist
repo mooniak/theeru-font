@@ -262,6 +262,7 @@ userData = {
 "Letterink-ComputationAllowed" = YES_BY_DEFAULT;
 "Letterink-FileVersion" = 9;
 "Letterink-MinimumCompatibleMarketingVersion" = "1.0.12 (2021-11-02)";
+"Letterink-StrokeType" = Brush;
 backdropGlyphLib = {
 AE = (
 (

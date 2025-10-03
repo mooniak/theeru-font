@@ -13,22 +13,42 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(501,592,l),
+(501,592,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
 (380,562,o),
 (285,516,o),
-(212,451,cs),
+(212,451,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
 (13,273,o),
 (130,40,o),
-(389,39,cs),
+(389,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
 (588,38,o),
 (741,157,o),
-(800,402,cs),
+(800,402,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
 (874,712,o),
 (771,1043,o),
 (466,1043,cs),
 (347,1043,o),
 (216,991,o),
-(65,867,cs)
+(65,867,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+})
 );
 }
 );
@@ -46,22 +66,42 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(501,592,l),
+(501,592,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
 (380,562,o),
 (285,516,o),
-(212,451,cs),
+(212,451,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
 (13,273,o),
 (130,40,o),
-(389,39,cs),
+(389,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
 (588,38,o),
 (741,157,o),
-(800,402,cs),
+(800,402,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
 (874,712,o),
 (771,1043,o),
 (466,1043,cs),
 (347,1043,o),
 (216,991,o),
-(65,867,cs)
+(65,867,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+})
 );
 }
 );

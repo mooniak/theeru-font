@@ -9,7 +9,11 @@ shapes = (
 closed = 1;
 nodes = (
 (597,697,o),
-(531,312,cs),
+(531,312,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
 (484,36,o),
 (115,-39,o),
 (115,216,cs),
@@ -26,7 +30,11 @@ shapes = (
 closed = 1;
 nodes = (
 (597,697,o),
-(531,312,cs),
+(531,312,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
 (484,36,o),
 (115,-39,o),
 (115,216,cs),

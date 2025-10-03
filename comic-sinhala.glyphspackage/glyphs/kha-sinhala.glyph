@@ -2,12 +2,144 @@
 glyphname = "kha-sinhala";
 layers = (
 {
+anchors = (
+{
+name = rakar;
+pos = (823,0);
+}
+);
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(149,867,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "1.887214125417813e-06";
+};
+}),
+(320,991,o),
+(461,1043,o),
+(580,1043,cs),
+(885,1043,o),
+(977,710,o),
+(914,402,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "359.9999947394748";
+};
+}),
+(837,23,o),
+(624,15,o),
+(507,85,c,{
+"Letterink-NibData" = {
+AngleInDegrees = "6.454663093791169e-06";
+};
+})
+);
 },
 {
+closed = 0;
+nodes = (
+(418,-140,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "6.454663093791169e-06";
+};
+}),
+(490,127,o),
+(497,151,o),
+(580,356,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "7.915756441434496e-07";
+};
+}),
+(653,537,o),
+(551,685,o),
+(371,613,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "2.017459109993069e-06";
+};
+}),
+(191,541,o),
+(105,275,o),
+(149,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "359.999993677653";
+};
+})
+);
+}
+);
+width = 1053;
+},
+{
+anchors = (
+{
+name = rakar;
+pos = (853,0);
+}
+);
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(160,867,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "1.887214125417813e-06";
+};
+}),
+(331,991,o),
+(472,1043,o),
+(591,1043,cs),
+(896,1043,o),
+(988,710,o),
+(925,402,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "359.9999947394748";
+};
+}),
+(848,23,o),
+(635,15,o),
+(518,85,c,{
+"Letterink-NibData" = {
+AngleInDegrees = "6.454663093791169e-06";
+};
+})
+);
+},
+{
+closed = 0;
+nodes = (
+(418,-140,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "6.454663093791169e-06";
+};
+}),
+(490,127,o),
+(528,150,o),
+(580,356,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "7.915756441434496e-07";
+};
+}),
+(624,529,o),
+(551,685,o),
+(371,613,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "2.017459109993069e-06";
+};
+}),
+(191,541,o),
+(105,275,o),
+(149,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "359.999993677653";
+};
+})
+);
+}
+);
+width = 1061;
 }
 );
 unicode = 3483;

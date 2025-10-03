@@ -13,35 +13,75 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(345,431,l),
+(345,431,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
 (196,333,o),
 (137,40,o),
-(420,39,cs),
+(420,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
 (659,38,o),
 (857,242,o),
-(881,609,cs),
+(881,609,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
 (911,1053,o),
 (640,1158,o),
-(343,1193,c),
+(343,1193,c,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
 (449,1131,o),
 (446,1071,o),
-(468,976,cs),
+(468,976,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
 (498,846,o),
 (645,740,o),
-(823,891,cs)
+(823,891,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+})
 );
 },
 {
 closed = 0;
 nodes = (
-(198,646,ls),
+(198,646,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
 (336,723,o),
 (501,713,o),
-(568,598,cs),
+(568,598,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0.00001;
+};
+}),
 (599,544,o),
 (505,493,o),
-(401,454,cs),
-(35,317,l)
+(401,454,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(35,317,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+})
 );
 }
 );
@@ -59,35 +99,75 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(345,431,l),
+(345,431,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
 (196,333,o),
 (137,40,o),
-(420,39,cs),
+(420,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
 (659,38,o),
 (857,242,o),
-(881,609,cs),
+(881,609,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
 (911,1053,o),
 (640,1158,o),
-(343,1193,c),
+(343,1193,c,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
 (449,1131,o),
 (446,1071,o),
-(468,976,cs),
+(468,976,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
 (498,846,o),
 (645,740,o),
-(823,891,cs)
+(823,891,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+})
 );
 },
 {
 closed = 0;
 nodes = (
-(198,646,ls),
+(198,646,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
 (336,723,o),
 (501,713,o),
-(568,598,cs),
+(568,598,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0.00001;
+};
+}),
 (599,544,o),
 (505,493,o),
-(401,454,cs),
-(35,317,l)
+(401,454,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(35,317,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+})
 );
 }
 );
