@@ -47,7 +47,7 @@ AngleInDegrees = 0;
 (743,1335,o),
 (702,1172,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 0.00001;
+AngleInDegrees = 0;
 };
 }),
 (649,965,o),
@@ -92,7 +92,7 @@ closed = 0;
 nodes = (
 (147,953,l,{
 "Letterink-NibData" = {
-AngleInDegrees = 0.00001;
+AngleInDegrees = 0;
 };
 }),
 (-23,970,o),
@@ -106,7 +106,7 @@ AngleInDegrees = 0;
 (736,1384,o),
 (698,1193,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 0.00001;
+AngleInDegrees = 0;
 };
 }),
 (656,983,o),

@@ -2,12 +2,130 @@
 glyphname = "dh-i-sinhala";
 layers = (
 {
+anchors = (
+{
+name = rakar;
+pos = (863,0);
+}
+);
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(556,649,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 359.99999;
+};
+}),
+(9,464,o),
+(-14,39,o),
+(294,39,cs),
+(378,39,o),
+(442,108,o),
+(496,366,c,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(457,108,o),
+(553,39,o),
+(633,39,cs),
+(757,39,o),
+(856,152,o),
+(886,402,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(929,760,o),
+(848,950,o),
+(487,900,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(260,869,o),
+(133,1025,o),
+(260,1183,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(370,1320,o),
+(717,1370,o),
+(936,1151,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+width = 1019;
 },
 {
+anchors = (
+{
+name = rakar;
+pos = (863,0);
+}
+);
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(556,649,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "359.99999";
+};
+}),
+(9,464,o),
+(-14,39,o),
+(294,39,cs),
+(378,39,o),
+(442,108,o),
+(496,366,c,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(457,108,o),
+(553,39,o),
+(633,39,cs),
+(757,39,o),
+(856,152,o),
+(886,402,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(929,760,o),
+(848,950,o),
+(487,900,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(260,869,o),
+(133,1025,o),
+(260,1183,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(370,1320,o),
+(717,1370,o),
+(936,1151,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+width = 1047;
 }
 );
 }

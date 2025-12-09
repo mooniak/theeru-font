@@ -2,12 +2,146 @@
 glyphname = "tt-i-sinhala";
 layers = (
 {
+anchors = (
+{
+name = rakar;
+pos = (743,0);
+}
+);
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(501,592,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(380,562,o),
+(285,516,o),
+(212,451,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(13,273,o),
+(130,40,o),
+(389,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(588,38,o),
+(741,157,o),
+(800,402,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(892,836,o),
+(590,858,o),
+(491,890,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "359.99999";
+};
+}),
+(351,935,o),
+(185,979,o),
+(216,1108,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(253,1263,o),
+(480,1308,o),
+(661,1237,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(821,1174,o),
+(873,1055,o),
+(843,929,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+})
+);
+}
+);
+width = 935;
 },
 {
+anchors = (
+{
+name = rakar;
+pos = (743,0);
+}
+);
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(501,592,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(380,562,o),
+(285,516,o),
+(212,451,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(13,273,o),
+(130,40,o),
+(389,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(588,38,o),
+(741,157,o),
+(800,402,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(892,836,o),
+(590,858,o),
+(491,890,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "359.99999";
+};
+}),
+(351,935,o),
+(185,979,o),
+(216,1108,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(253,1263,o),
+(480,1308,o),
+(661,1237,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(821,1174,o),
+(873,1055,o),
+(843,929,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+})
+);
+}
+);
+width = 966;
 }
 );
 }

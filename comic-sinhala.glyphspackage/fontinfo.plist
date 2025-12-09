@@ -1,5 +1,5 @@
 {
-.appVersion = "3343";
+.appVersion = "3436";
 .formatVersion = 3;
 axes = (
 {
@@ -57,8 +57,12 @@ code = "sub va-sinhala virama-sinhala by va-virama-sinhala;
 
 sub dda-sinhala iMatra-sinhala by dd-i-sinhala;
 sub va-sinhala iMatra-sinhala by v-i-sinhala;
+sub ma-sinhala iMatra-sinhala by m-i-sinhala;
+
+
 
 sub va-sinhala iiMatra-sinhala by v-ii-sinhala;
+sub dha-sinhala iiMatra-sinhala by dh-ii-sinhala;
 
 sub ka-sinhala uMatra-sinhala by k-u-sinhala;
 sub ta-sinhala uMatra-sinhala by t-u-sinhala;
@@ -68,6 +72,7 @@ sub bha-sinhala uMatra-sinhala by bh-u-sinhala;
 sub sha-sinhala uMatra-sinhala by sh-u-sinhala;
 sub ra-sinhala uMatra-sinhala by r-u-sinhala;
 sub la-sinhala uMatra-sinhala by l-u-sinhala;
+sub da-sinhala uMatra-sinhala by d-u-sinhala;
 
 
 sub ka-sinhala uuMatra-sinhala by k-uu-sinhala;
@@ -255,6 +260,48 @@ type = "x-height";
 },
 {
 type = "italic angle";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "New Value";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Kosala Senevirathne (Mooniak)";
+}
+);
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "New Value";
+}
+);
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = Mooniak;
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://mooniak.com";
 }
 );
 unitsPerEm = 1000;

@@ -22,7 +22,7 @@ AngleInDegrees = 0;
 (166,194,o),
 (104,91,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 0.00001;
+AngleInDegrees = 0;
 };
 }),
 (-63,-187,o),
@@ -57,7 +57,7 @@ AngleInDegrees = 0;
 (166,194,o),
 (104,91,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 0.00001;
+AngleInDegrees = 0;
 };
 }),
 (-63,-187,o),

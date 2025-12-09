@@ -25,14 +25,14 @@ AngleInDegrees = 360;
 }),
 (401,397,l,{
 "Letterink-NibData" = {
-AngleInDegrees = 0.00001;
+AngleInDegrees = 0;
 };
 }),
 (263,227,o),
 (196,164,o),
 (134,61,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 0.00001;
+AngleInDegrees = 0;
 };
 }),
 (-33,-217,o),
@@ -70,14 +70,14 @@ AngleInDegrees = 360;
 }),
 (401,397,l,{
 "Letterink-NibData" = {
-AngleInDegrees = 0.00001;
+AngleInDegrees = 0;
 };
 }),
 (263,227,o),
 (196,164,o),
 (134,61,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 0.00001;
+AngleInDegrees = 0;
 };
 }),
 (-33,-217,o),
