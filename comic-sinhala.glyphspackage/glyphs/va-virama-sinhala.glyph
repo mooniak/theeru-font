@@ -2,162 +2,288 @@
 glyphname = "va-virama-sinhala";
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 0;
+nodes = (
+(117,561,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(276,649,o),
+(453,717,o),
+(510,649,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(575,572,o),
+(499,534,o),
+(403,455,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(346,409,o),
+(319,391,o),
+(246,326,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(47,148,o),
+(135,40,o),
+(394,39,cs),
+(593,38,o),
+(766,154,o),
+(795,402,cs),
+(829,697,o),
+(759,998,o),
+(202,1101,cs),
+(113,1117,o),
+(29,1060,o),
+(49,962,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "3.679294347763062";
+MainAxisWidth = "19.51925277709961";
+ValidForParentMainAxisWidth = "90";
+};
+}),
+(66,877,o),
+(193,873,o),
+(359,1009,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "-5.413352966308594";
+MainAxisWidth = "-12.47393226623535";
+MinorAxisWidth = "-28.39822387695312";
+ValidForParentMainAxisWidth = "90";
+ValidForParentMinorAxisWidth = "120";
+};
+}),
+(527,1147,o),
+(736,1229,o),
+(870,1092,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "47.92626549119842";
+MainAxisWidth = "31.61824873982712";
+ValidForParentMainAxisWidth = "90";
+};
+})
+);
+}
+);
+};
 layerId = m01;
 shapes = (
 {
 closed = 0;
 nodes = (
-(137,561,ls,{
+(117,561,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
 }),
-(296,649,o),
-(473,717,o),
-(530,649,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = 359.99999;
-};
-}),
-(595,572,o),
-(519,534,o),
-(423,455,cs,{
+(276,649,o),
+(453,717,o),
+(510,649,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
 }),
-(366,409,o),
-(339,391,o),
-(266,326,cs,{
+(575,572,o),
+(499,534,o),
+(403,455,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
 }),
-(67,148,o),
-(155,40,o),
-(414,39,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = 0;
-};
-}),
-(613,38,o),
-(756,157,o),
-(815,402,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = 0;
-};
-}),
-(889,712,o),
-(891,957,o),
-(588,1000,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = 359.99999;
-};
-}),
-(469,1017,o),
-(380,1026,o),
-(222,1036,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = 0;
-};
-}),
-(-5,1050,o),
-(150,572,o),
-(379,1009,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = 0;
-};
-}),
-(510,1259,o),
-(870,1421,o),
-(948,1015,cs,{
+(346,409,o),
+(319,391,o),
+(246,326,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
+};
+}),
+(47,148,o),
+(135,40,o),
+(394,39,cs),
+(593,38,o),
+(766,154,o),
+(795,402,cs),
+(829,697,o),
+(778,1087,o),
+(75,939,c)
+);
+},
+{
+closed = 0;
+nodes = (
+(217,983,l,{
+"Letterink-NibData" = {
+AngleInDegrees = -5.41335;
+MainAxisWidth = -12.47393;
+MinorAxisWidth = -28.39822;
+ValidForParentMainAxisWidth = 90;
+ValidForParentMinorAxisWidth = 120;
+};
+}),
+(40,1382,o),
+(644,1190,o),
+(778,1053,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 47.92627;
+MainAxisWidth = 31.61825;
+ValidForParentMainAxisWidth = 90;
 };
 })
 );
 }
 );
-width = 1028;
+width = 916;
 },
 {
+background = {
+shapes = (
+{
+closed = 0;
+nodes = (
+(219,561,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(378,649,o),
+(555,717,o),
+(612,649,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(677,572,o),
+(601,534,o),
+(505,455,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(448,409,o),
+(421,391,o),
+(348,326,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(149,148,o),
+(237,40,o),
+(496,39,cs),
+(695,38,o),
+(868,154,o),
+(897,402,cs),
+(931,697,o),
+(861,998,o),
+(304,1101,cs),
+(215,1117,o),
+(131,1060,o),
+(151,962,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "3.679294347763062";
+MainAxisWidth = "19.51925277709961";
+ValidForParentMainAxisWidth = "90";
+};
+}),
+(168,877,o),
+(295,873,o),
+(461,1009,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "-5.413352966308594";
+MainAxisWidth = "-12.47393226623535";
+MinorAxisWidth = "-28.39822387695312";
+ValidForParentMainAxisWidth = "90";
+ValidForParentMinorAxisWidth = "120";
+};
+}),
+(629,1147,o),
+(838,1229,o),
+(972,1092,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "47.92626549119842";
+MainAxisWidth = "31.61824873982712";
+ValidForParentMainAxisWidth = "90";
+};
+})
+);
+}
+);
+};
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
 shapes = (
 {
 closed = 0;
 nodes = (
-(137,561,ls,{
+(144,561,l,{
 "Letterink-NibData" = {
-AngleInDegrees = 360;
+AngleInDegrees = "360";
 };
 }),
-(296,649,o),
-(473,717,o),
-(530,649,cs,{
+(303,649,o),
+(480,717,o),
+(537,649,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 359.99999;
+AngleInDegrees = "360";
 };
 }),
-(595,572,o),
-(519,534,o),
-(423,455,cs,{
+(602,572,o),
+(526,534,o),
+(430,455,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 360;
+AngleInDegrees = "360";
 };
 }),
-(366,409,o),
-(339,391,o),
-(266,326,cs,{
+(373,409,o),
+(346,391,o),
+(273,326,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 360;
+AngleInDegrees = "360";
 };
 }),
-(67,148,o),
-(155,40,o),
-(414,39,cs,{
+(74,148,o),
+(162,40,o),
+(421,39,cs),
+(620,38,o),
+(793,154,o),
+(822,402,cs),
+(856,697,o),
+(805,1087,o),
+(102,939,c)
+);
+},
+{
+closed = 0;
+nodes = (
+(244,983,l,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+AngleInDegrees = "-5.413352966308594";
+MainAxisWidth = "-12.47393226623535";
+MinorAxisWidth = "-28.39822387695312";
+ValidForParentMainAxisWidth = "90";
+ValidForParentMinorAxisWidth = "120";
 };
 }),
-(613,38,o),
-(756,157,o),
-(815,402,cs,{
+(67,1382,o),
+(671,1190,o),
+(805,1053,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
-};
-}),
-(889,712,o),
-(891,957,o),
-(588,1000,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = 359.99999;
-};
-}),
-(469,1017,o),
-(380,1026,o),
-(222,1036,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = 0;
-};
-}),
-(-5,1050,o),
-(150,572,o),
-(379,1009,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = 0;
-};
-}),
-(510,1259,o),
-(870,1421,o),
-(948,1015,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = 360;
+AngleInDegrees = "47.92626549119842";
+MainAxisWidth = "31.61824873982712";
+ValidForParentMainAxisWidth = "90";
 };
 })
 );
 }
 );
-width = 1047;
+width = 938;
 }
 );
 }

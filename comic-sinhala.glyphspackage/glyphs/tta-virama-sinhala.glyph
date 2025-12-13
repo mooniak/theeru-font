@@ -2,12 +2,142 @@
 glyphname = "tta-virama-sinhala";
 layers = (
 {
+anchors = (
+{
+name = rakar;
+pos = (743,0);
+}
+);
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(501,592,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(380,562,o),
+(285,516,o),
+(212,451,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(13,273,o),
+(130,40,o),
+(389,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(588,38,o),
+(757,154,o),
+(800,402,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(851,695,o),
+(784,1087,o),
+(81,939,c)
+);
 },
 {
+closed = 0;
+nodes = (
+(223,983,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "-5.413352966308594";
+MainAxisWidth = "-12.47393226623535";
+MinorAxisWidth = "-28.39822387695312";
+ValidForParentMainAxisWidth = "90";
+ValidForParentMinorAxisWidth = "120";
+};
+}),
+(46,1382,o),
+(650,1190,o),
+(784,1053,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "47.92626549119842";
+MainAxisWidth = "31.61824873982712";
+ValidForParentMainAxisWidth = "90";
+};
+})
+);
+}
+);
+width = 935;
+},
+{
+anchors = (
+{
+name = rakar;
+pos = (762,0);
+}
+);
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(520,592,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(399,562,o),
+(304,516,o),
+(231,451,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(32,273,o),
+(149,40,o),
+(408,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(607,38,o),
+(776,154,o),
+(819,402,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(870,695,o),
+(803,1087,o),
+(100,939,c)
+);
+},
+{
+closed = 0;
+nodes = (
+(242,983,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "-5.413352966308594";
+MainAxisWidth = "-12.47393226623535";
+MinorAxisWidth = "-28.39822387695312";
+ValidForParentMainAxisWidth = "90";
+ValidForParentMinorAxisWidth = "120";
+};
+}),
+(65,1382,o),
+(669,1190,o),
+(803,1053,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "47.92626549119842";
+MainAxisWidth = "31.61824873982712";
+ValidForParentMainAxisWidth = "90";
+};
+})
+);
+}
+);
+width = 941;
 }
 );
 }

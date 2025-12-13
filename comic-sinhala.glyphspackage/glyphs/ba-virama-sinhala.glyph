@@ -2,12 +2,156 @@
 glyphname = "ba-virama-sinhala";
 layers = (
 {
+anchors = (
+{
+name = rakar;
+pos = (823,0);
+}
+);
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(149,39,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = 359.99999;
+};
+}),
+(105,275,o),
+(191,541,o),
+(371,613,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(551,685,o),
+(626,541,o),
+(542,410,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(426,228,o),
+(375,81,o),
+(521,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(656,0,o),
+(871,154,o),
+(914,402,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 359.99999;
+};
+}),
+(964,695,o),
+(897,1087,o),
+(194,939,c)
+);
 },
 {
+closed = 0;
+nodes = (
+(336,983,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "-5.413352966308594";
+MainAxisWidth = "-12.47393226623535";
+MinorAxisWidth = "-28.39822387695312";
+ValidForParentMainAxisWidth = "90";
+ValidForParentMinorAxisWidth = "120";
+};
+}),
+(159,1382,o),
+(763,1190,o),
+(897,1053,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "47.92626549119842";
+MainAxisWidth = "31.61824873982712";
+ValidForParentMainAxisWidth = "90";
+};
+})
+);
+}
+);
+width = 1053;
+},
+{
+anchors = (
+{
+name = rakar;
+pos = (792,0);
+}
+);
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(118,39,ls,{
+"Letterink-NibData" = {
+AngleInDegrees = "359.99999";
+};
+}),
+(74,275,o),
+(160,541,o),
+(340,613,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(520,685,o),
+(595,541,o),
+(511,410,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(395,228,o),
+(344,81,o),
+(490,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(625,0,o),
+(840,154,o),
+(883,402,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "359.99999";
+};
+}),
+(933,695,o),
+(866,1087,o),
+(163,939,c)
+);
+},
+{
+closed = 0;
+nodes = (
+(305,983,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "-5.413352966308594";
+MainAxisWidth = "-12.47393226623535";
+MinorAxisWidth = "-28.39822387695312";
+ValidForParentMainAxisWidth = "90";
+ValidForParentMinorAxisWidth = "120";
+};
+}),
+(128,1382,o),
+(732,1190,o),
+(866,1053,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "47.92626549119842";
+MainAxisWidth = "31.61824873982712";
+ValidForParentMainAxisWidth = "90";
+};
+})
+);
+}
+);
+width = 1004;
 }
 );
 }

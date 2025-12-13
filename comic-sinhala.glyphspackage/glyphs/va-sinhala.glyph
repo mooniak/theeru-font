@@ -13,7 +13,7 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(75,918,ls,{
+(75,918,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
