@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = rakar;
-pos = (823,0);
+pos = (780,0);
 }
 );
 layerId = m01;
@@ -13,63 +13,63 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(149,39,ls,{
+(106,39,ls,{
 "Letterink-NibData" = {
 AngleInDegrees = 359.99999;
 };
 }),
-(105,275,o),
-(191,541,o),
-(371,613,cs,{
+(62,275,o),
+(148,541,o),
+(328,613,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(551,685,o),
-(626,541,o),
-(542,410,cs,{
+(508,685,o),
+(583,541,o),
+(499,410,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(426,228,o),
-(375,81,o),
-(521,39,cs,{
+(383,228,o),
+(332,81,o),
+(478,39,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(656,0,o),
-(855,157,o),
-(914,402,cs,{
+(613,0,o),
+(812,157,o),
+(871,402,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 359.99999;
 };
 }),
-(1006,836,o),
-(704,858,o),
-(605,890,cs,{
+(963,836,o),
+(661,858,o),
+(562,890,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = "359.99999";
 };
 }),
-(465,935,o),
-(299,979,o),
-(330,1108,cs,{
+(422,935,o),
+(256,979,o),
+(287,1108,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = "0";
 };
 }),
-(367,1263,o),
-(594,1308,o),
-(775,1237,cs,{
+(324,1263,o),
+(551,1308,o),
+(732,1237,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = "0";
 };
 }),
-(935,1174,o),
-(987,1055,o),
-(957,929,cs,{
+(892,1174,o),
+(944,1055,o),
+(914,929,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = "0";
 };
@@ -77,7 +77,7 @@ AngleInDegrees = "0";
 );
 }
 );
-width = 1053;
+width = 1010;
 },
 {
 anchors = (

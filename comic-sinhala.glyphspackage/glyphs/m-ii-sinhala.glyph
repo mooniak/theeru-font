@@ -3,11 +3,147 @@ glyphname = "m-ii-sinhala";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(142,97,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(905,531,o),
+(310,798,o),
+(132,451,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(9,212,o),
+(50,40,o),
+(309,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(508,38,o),
+(691,157,o),
+(750,402,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "359.99999";
+};
+}),
+(842,836,o),
+(540,858,o),
+(441,890,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "359.99999";
+};
+}),
+(301,935,o),
+(135,979,o),
+(166,1108,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(203,1263,o),
+(430,1308,o),
+(611,1237,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(771,1174,o),
+(823,1055,o),
+(793,929,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(723,635,o),
+(378,1069,o),
+(754,1242,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+})
+);
+}
+);
+width = 889;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(142,97,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(905,531,o),
+(310,798,o),
+(132,451,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(9,212,o),
+(50,40,o),
+(309,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(508,38,o),
+(691,157,o),
+(750,402,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "359.99999";
+};
+}),
+(842,836,o),
+(540,858,o),
+(441,890,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "359.99999";
+};
+}),
+(301,935,o),
+(135,979,o),
+(166,1108,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(203,1263,o),
+(430,1308,o),
+(611,1237,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(771,1174,o),
+(823,1055,o),
+(793,929,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(723,635,o),
+(378,1069,o),
+(754,1242,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+})
+);
+}
+);
+width = 917;
 }
 );
 }
