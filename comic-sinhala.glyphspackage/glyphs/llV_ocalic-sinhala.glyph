@@ -3,11 +3,29 @@ glyphname = "llVocalic-sinhala";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = "lVocalic-sinhala";
+},
+{
+pos = (1401,0);
+ref = "lVocalicMatra-sinhala";
+}
+);
+width = 2025;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+ref = "lVocalic-sinhala";
+},
+{
+pos = (1418,0);
+ref = "lVocalicMatra-sinhala";
+}
+);
+width = 2042;
 }
 );
 unicode = 3472;

@@ -3,11 +3,159 @@ glyphname = "rVocalic-sinhala";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(117,665,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(290,738,o),
+(403,727,o),
+(441,641,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(491,528,o),
+(201,390,o),
+(145,215,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(88,36,o),
+(423,-100,o),
+(584,314,c,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(621,128,o),
+(713,37,o),
+(811,37,cs),
+(866,37,o),
+(1050,128,o),
+(785,437,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(615,635,o),
+(728,748,o),
+(898,711,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+},
+{
+closed = 0;
+nodes = (
+(1119,609,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(1322,763,o),
+(1560,802,o),
+(1410,40,c,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(949,-41,o),
+(1039,388,o),
+(1392,292,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+width = 1565;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(117,665,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(290,738,o),
+(403,727,o),
+(441,641,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(491,528,o),
+(201,390,o),
+(145,215,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(88,36,o),
+(423,-100,o),
+(584,314,c,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(621,128,o),
+(713,37,o),
+(811,37,cs),
+(866,37,o),
+(1050,128,o),
+(785,437,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(615,635,o),
+(728,748,o),
+(898,711,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+},
+{
+closed = 0;
+nodes = (
+(1149,609,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(1352,763,o),
+(1590,802,o),
+(1440,40,c,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(979,-41,o),
+(1069,388,o),
+(1422,292,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+width = 1594;
 }
 );
 unicode = 3469;

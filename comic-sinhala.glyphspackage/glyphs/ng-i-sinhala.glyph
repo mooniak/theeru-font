@@ -3,11 +3,181 @@ glyphname = "ng-i-sinhala";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(327,652,ls),
+(263,412,o),
+(103,461,o),
+(94,585,cs),
+(87,679,o),
+(165,697,o),
+(236,713,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(287,725,o),
+(501,713,o),
+(568,598,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(599,544,o),
+(431,470,o),
+(335,412,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(54,242,o),
+(121,0,o),
+(294,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+MainAxisWidth = "0";
+ValidForParentMainAxisWidth = "90";
+};
+}),
+(377,58,o),
+(499,173,o),
+(526,275,c,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(514,173,o),
+(556,23,o),
+(660,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "340.04776";
+MainAxisWidth = "15.0582";
+ValidForParentMainAxisWidth = "90";
+};
+}),
+(782,58,o),
+(826,155,o),
+(876,402,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(949,764,o),
+(848,950,o),
+(487,900,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(260,869,o),
+(133,1025,o),
+(260,1183,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(370,1320,o),
+(717,1370,o),
+(936,1151,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+width = 999;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(327,652,ls),
+(263,412,o),
+(103,461,o),
+(94,585,cs),
+(87,679,o),
+(165,697,o),
+(236,713,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(287,725,o),
+(501,713,o),
+(568,598,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(599,544,o),
+(431,470,o),
+(335,412,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(54,242,o),
+(121,0,o),
+(294,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+MainAxisWidth = "0";
+ValidForParentMainAxisWidth = "90";
+};
+}),
+(377,58,o),
+(499,173,o),
+(526,275,c,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(514,173,o),
+(556,23,o),
+(660,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "340.04776";
+MainAxisWidth = "15.0582";
+ValidForParentMainAxisWidth = "90";
+};
+}),
+(782,58,o),
+(826,155,o),
+(876,402,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(949,764,o),
+(848,950,o),
+(487,900,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(260,869,o),
+(133,1025,o),
+(260,1183,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(370,1320,o),
+(717,1370,o),
+(936,1151,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+width = 1031;
 }
 );
 }

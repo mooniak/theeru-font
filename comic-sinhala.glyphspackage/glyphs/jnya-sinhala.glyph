@@ -3,12 +3,166 @@ glyphname = "jnya-sinhala";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(115,55,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(167,517,o),
+(340,842,o),
+(541,720,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(580,696,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(475,479,o),
+(439,396,o),
+(374,166,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "9.99999";
+};
+}),
+(337,35,o),
+(450,-51,o),
+(580,127,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(801,430,o),
+(861,517,o),
+(947,620,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(1131,842,o),
+(1372,721,o),
+(1372,560,cs),
+(1372,428,o),
+(1251,446,o),
+(1028,346,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(732,213,o),
+(1046,-197,o),
+(1411,140,c,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(1343,67,o),
+(1238,-32,o),
+(1170,-139,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(1012,-387,o),
+(1328,-560,o),
+(1510,-208,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+width = 1576;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(115,55,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(167,517,o),
+(340,842,o),
+(541,720,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(580,696,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(475,479,o),
+(439,396,o),
+(374,166,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "9.99999";
+};
+}),
+(337,35,o),
+(450,-51,o),
+(580,127,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(801,430,o),
+(861,517,o),
+(947,620,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "10";
+};
+}),
+(1131,842,o),
+(1372,721,o),
+(1372,560,cs),
+(1372,428,o),
+(1251,446,o),
+(1028,346,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(732,213,o),
+(1046,-197,o),
+(1411,140,c,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(1343,67,o),
+(1238,-32,o),
+(1170,-139,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(1012,-387,o),
+(1328,-560,o),
+(1510,-208,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
 }
 );
+width = 1576;
+}
+);
+metricLeft = "nnga-sinhala";
+metricRight = "da-sinhala";
 unicode = 3493;
 }
