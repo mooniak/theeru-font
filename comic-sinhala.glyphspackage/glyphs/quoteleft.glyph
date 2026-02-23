@@ -3,11 +3,45 @@ glyphname = quoteleft;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(237,1273,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(163,1113,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+width = 364;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(189,1273,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(115,1113,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+width = 304;
 }
 );
 unicode = 8216;

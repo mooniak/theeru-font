@@ -3,10 +3,32 @@ glyphname = parenleft;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(485,975,l),
+(239,760,o),
+(13,283,o),
+(314,-110,c)
+);
+}
+);
 width = 600;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(485,975,l),
+(239,760,o),
+(13,283,o),
+(314,-110,c)
+);
+}
+);
 width = 600;
 }
 );

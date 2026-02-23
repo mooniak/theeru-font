@@ -3,11 +3,63 @@ glyphname = question;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(217,116,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(202,284,o),
+(291,341,o),
+(440,425,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(778,615,o),
+(489,848,o),
+(217,711,cs)
+);
+},
+{
+pos = (-20,-180);
+ref = period;
+}
+);
+width = 706;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(160,248,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(176,416,o),
+(263,428,o),
+(412,512,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(750,702,o),
+(461,935,o),
+(189,798,cs)
+);
+},
+{
+pos = (-48,-103);
+ref = period;
+}
+);
+width = 679;
 }
 );
 unicode = 63;

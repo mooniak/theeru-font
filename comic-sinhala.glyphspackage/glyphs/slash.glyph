@@ -3,10 +3,44 @@ glyphname = slash;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(424,807,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(152,-164,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+width = 597;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(424,807,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(152,-164,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
 width = 600;
 }
 );

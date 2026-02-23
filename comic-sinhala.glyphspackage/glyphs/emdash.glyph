@@ -3,11 +3,29 @@ glyphname = emdash;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(152,291,l),
+(1115,291,l)
+);
+}
+);
+width = 1267;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(141,291,l),
+(1104,291,l)
+);
+}
+);
+width = 1245;
 }
 );
 unicode = 8212;

@@ -3,10 +3,44 @@ glyphname = backslash;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(143,807,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(447,-164,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
 width = 600;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(157,807,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(459,-164,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
 width = 600;
 }
 );
