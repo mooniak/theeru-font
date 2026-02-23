@@ -6,6 +6,10 @@ anchors = (
 {
 name = iMatra;
 pos = (75,760);
+},
+{
+name = virama;
+pos = (115,797);
 }
 );
 layerId = m01;
@@ -45,6 +49,10 @@ anchors = (
 {
 name = iMatra;
 pos = (65,800);
+},
+{
+name = virama;
+pos = (115,897);
 }
 );
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";

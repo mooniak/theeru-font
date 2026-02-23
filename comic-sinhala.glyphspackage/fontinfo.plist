@@ -53,37 +53,35 @@ sub virama-sinhala zerowidthjoiner ya-sinhala by yansa-sinhala;";
 tag = vatu;
 },
 {
-code = "sub va-sinhala virama-sinhala by va-virama-sinhala;
-
-sub dda-sinhala iMatra-sinhala by dd-i-sinhala;
-sub va-sinhala iMatra-sinhala by v-i-sinhala;
-sub ma-sinhala iMatra-sinhala by m-i-sinhala;
-
-
-
-sub va-sinhala iiMatra-sinhala by v-ii-sinhala;
-sub dha-sinhala iiMatra-sinhala by dh-ii-sinhala;
-
+code = "#uMatra
 sub ka-sinhala uMatra-sinhala by k-u-sinhala;
-sub ta-sinhala uMatra-sinhala by t-u-sinhala;
 sub ga-sinhala uMatra-sinhala by g-u-sinhala;
 sub nnga-sinhala uMatra-sinhala by nng-u-sinhala;
+#sub nya-sinhala uMatra-sinhala by ny-u-sinhala;
+#sub jnya-sinhala uMatra-sinhala by jny-u-sinhala;
+sub ta-sinhala uMatra-sinhala by t-u-sinhala;
+sub da-sinhala uMatra-sinhala by d-u-sinhala;
+sub nda-sinhala uMatra-sinhala by nd-u-sinhala;
 sub bha-sinhala uMatra-sinhala by bh-u-sinhala;
-sub sha-sinhala uMatra-sinhala by sh-u-sinhala;
 sub ra-sinhala uMatra-sinhala by r-u-sinhala;
 sub la-sinhala uMatra-sinhala by l-u-sinhala;
-sub da-sinhala uMatra-sinhala by d-u-sinhala;
+sub sha-sinhala uMatra-sinhala by sh-u-sinhala;
 
-
+#uuMatra
 sub ka-sinhala uuMatra-sinhala by k-uu-sinhala;
-sub ta-sinhala uuMatra-sinhala by t-uu-sinhala;
 sub ga-sinhala uuMatra-sinhala by g-uu-sinhala;
 sub nnga-sinhala uuMatra-sinhala by nng-uu-sinhala;
+#sub nya-sinhala uuMatra-sinhala by ny-uu-sinhala;
+#sub jnya-sinhala uuMatra-sinhala by jny-uu-sinhala;
+sub ta-sinhala uuMatra-sinhala by t-uu-sinhala;
+sub da-sinhala uuMatra-sinhala by d-uu-sinhala;
+sub nda-sinhala uuMatra-sinhala by nd-uu-sinhala;
 sub bha-sinhala uuMatra-sinhala by bh-uu-sinhala;
-sub sha-sinhala uuMatra-sinhala by sh-uu-sinhala;
 sub ra-sinhala uuMatra-sinhala by r-uu-sinhala;
+sub la-sinhala uuMatra-sinhala by l-uu-sinhala;
+sub sha-sinhala uuMatra-sinhala by sh-uu-sinhala;
 ";
-tag = psts;
+tag = blws;
 },
 {
 code = "sub @Ja-Class iMatra-sinhala' by iMatra-sinhala._ja;
@@ -91,8 +89,53 @@ sub @Ja-Class iiMatra-sinhala' by iiMatra-sinhala._ja;
 
 sub @Tha-Class iMatra-sinhala' by iMatra-sinhala._tha;
 sub @Tha-Class iiMatra-sinhala' by iiMatra-sinhala._tha;
-";
+
+#Virama Orthographic Ligatures
+sub kha-sinhala virama-sinhala by kha-virama-sinhala;
+sub nga-sinhala virama-sinhala by nga-virama-sinhala;
+sub ca-sinhala virama-sinhala by ca-virama-sinhala;
+#sub jha-sinhala virama-sinhala by jha-virama-sinhala;
+sub tta-sinhala virama-sinhala by tta-virama-sinhala;
+sub dda-sinhala virama-sinhala by dda-virama-sinhala;
+sub nndda-sinhala virama-sinhala by nndda-virama-sinhala;
+sub dha-sinhala virama-sinhala by dha-virama-sinhala;
+sub ba-sinhala virama-sinhala by ba-virama-sinhala;
+sub ma-sinhala virama-sinhala by ma-virama-sinhala;
+sub mba-sinhala virama-sinhala by mba-virama-sinhala;
+sub va-sinhala virama-sinhala by va-virama-sinhala;
+
+#iMatra Orthographic Ligatures
+sub kha-sinhala iMatra-sinhala by kh-i-sinhala;
+sub nga-sinhala iMatra-sinhala by ng-i-sinhala;
+sub ca-sinhala iMatra-sinhala by c-i-sinhala;
+#sub jha-sinhala iMatra-sinhala by jh-i-sinhala;
+sub tta-sinhala iMatra-sinhala by tt-i-sinhala;
+sub dda-sinhala iMatra-sinhala by dd-i-sinhala;
+sub nndda-sinhala iMatra-sinhala by nndd-i-sinhala;
+sub dha-sinhala iMatra-sinhala by dh-i-sinhala;
+sub ba-sinhala iMatra-sinhala by b-i-sinhala;
+sub ma-sinhala iMatra-sinhala by m-i-sinhala;
+sub mba-sinhala iMatra-sinhala by mb-i-sinhala;
+sub va-sinhala iMatra-sinhala by v-i-sinhala;
+
+#iiMatra Orthographic Ligatures
+sub kha-sinhala iiMatra-sinhala by kh-ii-sinhala;
+sub nga-sinhala iiMatra-sinhala by ng-ii-sinhala;
+sub ca-sinhala iiMatra-sinhala by c-ii-sinhala;
+#sub jha-sinhala iiMatra-sinhala by jh-ii-sinhala;
+sub tta-sinhala iiMatra-sinhala by tt-ii-sinhala;
+sub dda-sinhala iiMatra-sinhala by dd-ii-sinhala;
+sub nndda-sinhala iiMatra-sinhala by nndd-ii-sinhala;
+sub dha-sinhala iiMatra-sinhala by dh-ii-sinhala;
+sub ba-sinhala iiMatra-sinhala by b-ii-sinhala;
+sub ma-sinhala iiMatra-sinhala by m-ii-sinhala;
+sub mba-sinhala iiMatra-sinhala by mb-ii-sinhala;
+sub va-sinhala iiMatra-sinhala by v-ii-sinhala;";
 tag = abvs;
+},
+{
+code = "";
+tag = psts;
 }
 );
 fontMaster = (
