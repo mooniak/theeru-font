@@ -1,0 +1,9 @@
+{
+  "name": "Sample Font Package",
+  "id": "fontpackage-sample",
+  "designer": ["Mooniak", "Google"],
+  "scripts": ["Sinh", "Latn"],
+  "description": "A humanist sans-serif for Sinhala and Latin.",
+  "license": "OFL-1.1",
+  "channels": ["release", "dev", "nightly"]
+}
