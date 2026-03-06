@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install -r requirements.in)",
+      "Bash(pip3 install -r /Users/pathumego/src/github/mooniak/sinhala-comic-fonts/requirements.in)",
+      "Bash(pip install -r /Users/pathumego/src/github/mooniak/sinhala-comic-fonts/requirements.in)",
+      "Bash(pip index versions skia-python)"
+    ]
+  }
+}

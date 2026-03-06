@@ -1,9 +1,84 @@
 {
-  "name": "Sample Font Package",
-  "id": "fontpackage-sample",
-  "designer": ["Mooniak", "Google"],
-  "scripts": ["Sinh", "Latn"],
-  "description": "A humanist sans-serif for Sinhala and Latin.",
+  "name": "Sinhala Comic Fonts",
+  "id": "sinhala-comic",
+  "type": "family",
+  "designer": [
+    "Mooniak"
+  ],
+  "scripts": [
+    "Sinh"
+  ],
+  "description": "A set of display fonts designed specifically for Sinhala comics and graphic storytelling.",
   "license": "OFL-1.1",
-  "channels": ["release", "dev", "nightly"]
+  "channels": [
+    "release",
+    "dev",
+    "nightly"
+  ],
+  "versions_provider": "tags",
+  "repository": {
+    "url": "https://github.com/mooniak/sinhala-comic-font",
+    "type": "git"
+  },
+  "homepage_url": "https://src.mooniak.com/sinhala-comic-font/",
+  "issues_url": "https://github.com/mooniak/sinhala-comic-font/issues/",
+  "funding_url": "https://opencollective.com/akuruxyz/projects/lanka-font-library",
+  "foundry": {
+    "name": "mooniak",
+    "email": "hello@mooniak.com",
+    "url": "https://mooniak.com/",
+    "vendor_id": "MNIK"
+  },
+  "designers": [
+    {
+      "name": "Pathum Egodawatta",
+      "email": "pathum@mooniak.com",
+      "url": "https://pathumego.com/"
+    }
+  ],
+  "maintenance": {
+    "status": "passively-maintained",
+    "comment": ""
+  },
+  "tools": "",
+  "progress": {
+    "design": 70,
+    "family_styles": 60,
+    "character_set": 60,
+    "drawing_quality": 70,
+    "spacing": 50,
+    "kerning": 20,
+    "hinting": 40,
+    "opentype_features": 40
+  },
+  "tags": {
+    "style": "display",
+    "contrast": "low",
+    "width": "normal",
+    "body_height": "normal",
+    "intended_usage": "large",
+    "figures": "normal",
+    "languages": [
+      "si_LK"
+    ],
+    "related_fonts": []
+  },
+  "display_texts": {
+    "en_US": "",
+    "si_LK": "දැරණියගලට ඉහල අහසේ දඟකරන වලාපෙළ මවනා සොඳුරු දසුන රාත්‍රිය උදාවත් සමග ක්‍ෂයවේ.",
+    "ta_LK": ""
+  },
+  "display_images": {
+    "banner": "",
+    "thumbnail": "",
+    "small": "",
+    "medium": "",
+    "large": ""
+  },
+  "links": {
+    "font_in_use": "",
+    "googlefonts": "",
+    "fontlibrary_org": "",
+    "typekit": ""
+  }
 }
