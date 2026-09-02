@@ -7,12 +7,12 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(424,807,l,{
+(375,807,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "360";
 };
 }),
-(152,-164,l,{
+(133,-144,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "360";
 };
@@ -20,7 +20,7 @@ AngleInDegrees = "360";
 );
 }
 );
-width = 597;
+width = 548;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -28,12 +28,12 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(424,807,l,{
+(413,877,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "360";
 };
 }),
-(152,-164,l,{
+(141,-124,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "360";
 };
@@ -41,7 +41,7 @@ AngleInDegrees = "360";
 );
 }
 );
-width = 600;
+width = 544;
 }
 );
 unicode = 47;

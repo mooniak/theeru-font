@@ -1,12 +1,35 @@
 {
+color = 3;
 glyphname = bracketleft;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(373,-155,l),
+(135,-155,l),
+(282,968,l),
+(503,957,l)
+);
+}
+);
+width = 583;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(373,-155,l),
+(135,-155,l),
+(287,967,l),
+(503,957,l)
+);
+}
+);
 width = 600;
 }
 );

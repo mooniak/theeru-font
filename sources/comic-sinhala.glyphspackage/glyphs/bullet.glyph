@@ -1,13 +1,62 @@
 {
+color = 3;
 glyphname = bullet;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(309,528,o),
+(116,335,o),
+(231,221,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(345,106,o),
+(538,299,o),
+(423,413,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+userData = {
+"Letterink-ComputationAllowed" = NO;
+};
+width = 654;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(304,582,o),
+(62,340,o),
+(206,196,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(350,52,o),
+(592,294,o),
+(448,438,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+userData = {
+"Letterink-ComputationAllowed" = NO;
+};
+width = 654;
 }
 );
 unicode = 8226;

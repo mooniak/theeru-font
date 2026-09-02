@@ -7,12 +7,12 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(143,807,l,{
+(173,807,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "360";
 };
 }),
-(447,-164,l,{
+(407,-124,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "360";
 };
@@ -28,12 +28,12 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(157,807,l,{
+(181,867,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "360";
 };
 }),
-(459,-164,l,{
+(393,-114,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "360";
 };
@@ -41,7 +41,7 @@ AngleInDegrees = "360";
 );
 }
 );
-width = 600;
+width = 634;
 }
 );
 unicode = 92;
