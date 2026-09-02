@@ -179,11 +179,9 @@ over = -16;
 pos = -540;
 },
 {
-over = 0;
 pos = 760;
 },
 {
-over = 0;
 }
 );
 name = Regular;
@@ -225,7 +223,6 @@ over = 16;
 pos = 800;
 },
 {
-over = 0;
 }
 );
 name = Bold;
@@ -337,6 +334,10 @@ value = "Kosala Senevirathne (Mooniak)";
 );
 },
 {
+key = designerURL;
+value = "http://www.mooniak.com/";
+},
+{
 key = licenses;
 values = (
 {
@@ -357,13 +358,7 @@ value = Mooniak;
 {
 key = manufacturerURL;
 value = "https://mooniak.com";
-},
-{
-key = designerURL;
-value = "http://www.mooniak.com/";
 }
-);
-stems = (
 );
 unitsPerEm = 1000;
 userData = {
