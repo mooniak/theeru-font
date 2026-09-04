@@ -62,16 +62,20 @@ AngleInDegrees = 360;
 (256,448,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
 };
 }),
 (305,541,o),
-(355,685,o),
+(355,665,o),
 (417,675,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
 };
 }),
-(527,657,o),
+(527,693,o),
 (533,569,o),
 (465,345,cs,{
 "Letterink-NibData" = {
@@ -80,15 +84,11 @@ AngleInDegrees = 360;
 }),
 (373,42,o),
 (204,-72,o),
-(96,174,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = 0;
-};
-})
+(96,174,cs)
 );
 }
 );
-width = 624;
+width = 621;
 }
 );
 script = sinhala;

@@ -7,7 +7,7 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(327,652,ls),
+(327,652,l),
 (263,412,o),
 (103,461,o),
 (94,585,cs),
@@ -58,31 +58,38 @@ ValidForParentMainAxisWidth = "90";
 };
 }),
 (782,58,o),
-(826,155,o),
+(824,155,o),
 (876,402,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = "0";
 };
 }),
-(949,764,o),
-(848,950,o),
-(487,900,cs,{
+(967,836,o),
+(666,858,o),
+(567,890,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "359.99999";
+};
+}),
+(427,935,o),
+(261,979,o),
+(292,1108,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = "0";
 };
 }),
-(260,869,o),
-(133,1025,o),
-(260,1183,cs,{
+(329,1263,o),
+(556,1308,o),
+(737,1237,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = "360";
+AngleInDegrees = "0";
 };
 }),
-(370,1320,o),
-(717,1370,o),
-(936,1151,cs,{
+(897,1174,o),
+(949,1055,o),
+(919,929,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = "360";
+AngleInDegrees = "0";
 };
 })
 );
@@ -91,7 +98,7 @@ AngleInDegrees = "360";
 width = 999;
 },
 {
-layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+background = {
 shapes = (
 {
 closed = 0;
@@ -174,6 +181,70 @@ AngleInDegrees = "360";
 AngleInDegrees = "360";
 };
 })
+);
+}
+);
+};
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(327,652,l),
+(263,412,o),
+(103,461,o),
+(94,585,cs),
+(87,679,o),
+(165,697,o),
+(236,713,cs),
+(287,725,o),
+(501,713,o),
+(568,598,cs),
+(599,544,o),
+(431,470,o),
+(335,412,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(54,242,o),
+(121,0,o),
+(294,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(377,58,o),
+(499,173,o),
+(526,275,c),
+(514,173,o),
+(556,23,o),
+(660,39,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 340.04776;
+MainAxisWidth = 15.0582;
+ValidForParentMainAxisWidth = 90;
+};
+}),
+(782,58,o),
+(824,155,o),
+(876,402,cs),
+(967,836,o),
+(666,858,o),
+(567,890,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(427,935,o),
+(261,979,o),
+(292,1108,cs),
+(329,1263,o),
+(556,1308,o),
+(737,1237,cs),
+(897,1174,o),
+(949,1055,o),
+(919,929,cs)
 );
 }
 );

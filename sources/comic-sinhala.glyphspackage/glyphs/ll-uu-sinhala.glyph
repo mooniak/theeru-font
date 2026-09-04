@@ -12,7 +12,7 @@ pos = (1065,0);
 ref = "aaeMatra-sinhala";
 }
 );
-width = 1663;
+width = 1631;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -25,7 +25,7 @@ pos = (1068,0);
 ref = "aaeMatra-sinhala";
 }
 );
-width = 1666;
+width = 1638;
 }
 );
 }

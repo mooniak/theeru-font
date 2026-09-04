@@ -8,36 +8,37 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(94,638,l,{
+(62,678,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
 }),
-(401,614,l,{
+(369,644,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
+MinorAxisWidth = -20;
+ValidForParentMinorAxisWidth = 120;
 };
 }),
-(132,429,l,{
+(100,469,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
+MinorAxisWidth = -20;
+ValidForParentMinorAxisWidth = 120;
 };
 }),
-(401,397,l,{
+(369,437,l,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+MinorAxisWidth = -20;
+ValidForParentMinorAxisWidth = 120;
 };
 }),
-(263,227,o),
-(196,164,o),
-(134,61,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = 0;
-};
-}),
-(-33,-217,o),
-(327,-281,o),
-(483,-70,cs,{
+(231,284,o),
+(203,254,o),
+(122,151,cs),
+(-48,-65,o),
+(315,-191,o),
+(471,20,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
@@ -45,7 +46,7 @@ AngleInDegrees = 360;
 );
 }
 );
-width = 598;
+width = 566;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -53,36 +54,42 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(94,638,l,{
+(86,668,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
 }),
-(401,614,l,{
+(393,634,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
+MinorAxisWidth = -50;
+ValidForParentMinorAxisWidth = 180;
 };
 }),
-(132,429,l,{
+(124,459,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
+MinorAxisWidth = -50;
+ValidForParentMinorAxisWidth = 180;
 };
 }),
-(401,397,l,{
+(393,427,l,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+MinorAxisWidth = -50;
+ValidForParentMinorAxisWidth = 180;
 };
 }),
-(263,227,o),
-(196,164,o),
-(134,61,cs,{
+(255,274,o),
+(194,238,o),
+(126,151,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+MinorAxisWidth = -20;
+ValidForParentMinorAxisWidth = 180;
 };
 }),
-(-33,-217,o),
-(327,-281,o),
-(483,-70,cs,{
+(-42,-64,o),
+(319,-191,o),
+(475,20,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
@@ -90,7 +97,7 @@ AngleInDegrees = 360;
 );
 }
 );
-width = 598;
+width = 570;
 }
 );
 script = sinhala;
