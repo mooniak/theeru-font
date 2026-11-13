@@ -1,0 +1,29 @@
+FONTLOG for Theeru
+-------------------
+
+This file provides detailed information on the Theeru font software.
+This information should be distributed along with the Theeru fonts and any derivative works.
+
+Please see https://github.com/mooniak/theeru-font for documentation, development plans, contribution guidelines and all past releases.
+
+ChangeLog
+----------
+
+2026 (mooniak) Theeru initial development
+- Sinhala script coverage for comics and graphic storytelling
+- Variable font with a Weight (wght) axis
+
+
+Information for Contributors
+------------------------------
+
+Theeru is released under the OFL 1.1 - https://openfontlicense.org
+
+For information on what you're allowed to change or modify, consult the
+OFL.txt file. It also gives a very general rationale and various
+recommendations regarding why you would want to contribute to the
+project or make your own version of the font.
+
+See the project website for the current trunk and the various branches:
+
+https://github.com/mooniak/theeru-font

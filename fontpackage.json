@@ -1,8 +1,9 @@
 {
-  "name": "Sinhala Comic Fonts",
-  "id": "sinhala-comic",
+  "name": "Theeru",
+  "id": "theeru",
   "type": "family",
   "designer": [
+    "Kosala Senevirathne",
     "Mooniak"
   ],
   "scripts": [
@@ -17,11 +18,11 @@
   ],
   "versions_provider": "tags",
   "repository": {
-    "url": "https://github.com/mooniak/sinhala-comic-font",
+    "url": "https://github.com/mooniak/theeru-font",
     "type": "git"
   },
-  "homepage_url": "https://src.mooniak.com/sinhala-comic-font/",
-  "issues_url": "https://github.com/mooniak/sinhala-comic-font/issues/",
+  "homepage_url": "https://src.mooniak.com/theeru-font/",
+  "issues_url": "https://github.com/mooniak/theeru-font/issues/",
   "funding_url": "https://opencollective.com/akuruxyz/projects/lanka-font-library",
   "foundry": {
     "name": "mooniak",
@@ -30,6 +31,11 @@
     "vendor_id": "MNIK"
   },
   "designers": [
+    {
+      "name": "Kosala Senevirathne",
+      "email": "",
+      "url": "https://mooniak.com/"
+    },
     {
       "name": "Pathum Egodawatta",
       "email": "pathum@mooniak.com",
