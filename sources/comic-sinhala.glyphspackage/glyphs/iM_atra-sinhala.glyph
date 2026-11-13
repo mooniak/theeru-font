@@ -19,8 +19,8 @@ nodes = (
 AngleInDegrees = 0;
 };
 }),
-(-530,1201,o),
-(-48,1150,o),
+(-566,1228,o),
+(-48,1234,o),
 (-126,846,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
@@ -35,7 +35,7 @@ width = 0;
 anchors = (
 {
 name = _iMatra;
-pos = (-368,800);
+pos = (-368,750);
 }
 );
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -45,14 +45,14 @@ closed = 0;
 nodes = (
 (-630,881,l,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+AngleInDegrees = "0";
 };
 }),
-(-530,1201,o),
-(-48,1150,o),
+(-566,1228,o),
+(-48,1234,o),
 (-126,846,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 360;
+AngleInDegrees = "360";
 };
 })
 );

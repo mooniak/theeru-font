@@ -73,15 +73,15 @@ width = 913;
 anchors = (
 {
 name = iMatra;
-pos = (457,800);
+pos = (487,800);
 },
 {
 name = rakar;
-pos = (823,0);
+pos = (853,0);
 },
 {
 name = virama;
-pos = (638,790);
+pos = (668,790);
 }
 );
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -89,45 +89,45 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(85,695,l,{
+(115,695,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
 }),
-(258,768,o),
-(374,722,o),
-(374,619,cs),
-(374,540,o),
-(290,480,o),
-(163,324,cs,{
+(288,768,o),
+(404,722,o),
+(404,619,cs),
+(404,540,o),
+(320,480,o),
+(193,324,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
 }),
-(45,179,o),
-(56,-4,o),
-(476,49,cs,{
+(75,179,o),
+(86,-4,o),
+(506,49,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
 }),
-(858,97,o),
-(854,289,o),
-(706,395,cs,{
+(888,97,o),
+(884,289,o),
+(736,395,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
 }),
-(605,467,o),
-(533,524,o),
-(548,616,cs,{
+(635,467,o),
+(563,524,o),
+(578,616,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(562,700,o),
-(645,732,o),
-(795,763,cs,{
+(592,700,o),
+(675,732,o),
+(825,763,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
@@ -135,7 +135,7 @@ AngleInDegrees = 0;
 );
 }
 );
-width = 913;
+width = 943;
 }
 );
 unicode = 3508;

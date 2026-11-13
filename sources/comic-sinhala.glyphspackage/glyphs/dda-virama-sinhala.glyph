@@ -124,41 +124,37 @@ closed = 0;
 nodes = (
 (350,412,l,{
 "Letterink-NibData" = {
-AngleInDegrees = "0";
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
 };
 }),
 (158,220,o),
-(166,0,o),
+(158,23,o),
 (339,39,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = "360";
-MainAxisWidth = "0";
-ValidForParentMainAxisWidth = "90";
+AngleInDegrees = 360;
 };
 }),
-(422,58,o),
-(544,173,o),
+(422,46,o),
+(525,173,o),
 (571,275,c,{
 "Letterink-NibData" = {
-AngleInDegrees = "0";
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
 };
 }),
 (559,173,o),
 (601,23,o),
 (705,39,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = "340.04776";
-MainAxisWidth = "15.0582";
-ValidForParentMainAxisWidth = "90";
+AngleInDegrees = 340.04776;
+MainAxisWidth = 15.0582;
+ValidForParentMainAxisWidth = 90;
 };
 }),
 (827,58,o),
 (888,152,o),
-(921,402,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = "0";
-};
-}),
+(921,402,cs),
 (955,697,o),
 (904,1087,o),
 (201,939,c)
@@ -167,28 +163,20 @@ AngleInDegrees = "0";
 {
 closed = 0;
 nodes = (
-(243,646,l,{
-"Letterink-NibData" = {
-AngleInDegrees = "0";
-};
-}),
+(243,646,l),
 (381,723,o),
 (546,713,o),
-(613,598,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = "0";
-};
-}),
+(613,598,cs),
 (644,544,o),
 (550,493,o),
 (446,454,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = "360";
+AngleInDegrees = 360;
 };
 }),
 (80,317,l,{
 "Letterink-NibData" = {
-AngleInDegrees = "360";
+AngleInDegrees = 360;
 };
 })
 );
@@ -198,20 +186,20 @@ closed = 0;
 nodes = (
 (343,983,l,{
 "Letterink-NibData" = {
-AngleInDegrees = "-5.413352966308594";
-MainAxisWidth = "-12.47393226623535";
-MinorAxisWidth = "-28.39822387695312";
-ValidForParentMainAxisWidth = "90";
-ValidForParentMinorAxisWidth = "120";
+AngleInDegrees = -5.41335;
+MainAxisWidth = -12.47393;
+MinorAxisWidth = -28.39822;
+ValidForParentMainAxisWidth = 90;
+ValidForParentMinorAxisWidth = 120;
 };
 }),
 (166,1382,o),
 (770,1190,o),
 (904,1053,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = "47.92626549119842";
-MainAxisWidth = "31.61824873982712";
-ValidForParentMainAxisWidth = "90";
+AngleInDegrees = 47.92627;
+MainAxisWidth = 31.61825;
+ValidForParentMainAxisWidth = 90;
 };
 })
 );

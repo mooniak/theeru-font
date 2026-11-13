@@ -57,7 +57,7 @@ nodes = (
 );
 }
 );
-width = 1015;
+width = 925;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -115,7 +115,7 @@ nodes = (
 );
 }
 );
-width = 995;
+width = 965;
 }
 );
 metricRight = "d-u-sinhala";

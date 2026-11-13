@@ -23,67 +23,66 @@ closed = 0;
 nodes = (
 (115,55,l,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+AngleInDegrees = "0";
 };
 }),
 (167,517,o),
 (340,842,o),
 (541,720,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+AngleInDegrees = "0";
 };
 }),
 (580,696,l,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+AngleInDegrees = "0";
 };
 }),
 (475,479,o),
 (439,396,o),
 (374,166,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 9.99999;
+AngleInDegrees = "9.99999";
 };
 }),
 (337,35,o),
-(434,-45,o),
-(580,127,cs,{
+(459,-46,o),
+(640,97,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 10;
+AngleInDegrees = "10";
 };
 }),
-(891,493,o),
-(909,522,o),
-(984,585,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = 10;
-};
-}),
-(1122,701,o),
-(1171,264,o),
+(799,223,o),
+(848,336,o),
+(850,391,cs),
+(851,453,o),
+(758,511,o),
+(635,394,c),
+(1022,978,o),
+(1218,532,o),
 (1095,-166,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 9.99999;
+AngleInDegrees = "9.99999";
 };
 })
 );
 }
 );
-width = 1240;
+width = 1242;
 },
 {
 anchors = (
 {
 name = iMatra;
-pos = (857,800);
+pos = (859,800);
 },
 {
 name = rakar;
-pos = (1163,0);
+pos = (1165,0);
 },
 {
 name = virama;
-pos = (1028,750);
+pos = (1030,750);
 }
 );
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -91,55 +90,47 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(115,55,l,{
+(117,55,l),
+(169,517,o),
+(342,842,o),
+(543,720,cs),
+(582,696,l),
+(477,479,o),
+(441,396,o),
+(376,166,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+AngleInDegrees = "9.99999";
 };
 }),
-(167,517,o),
-(340,842,o),
-(541,720,cs,{
+(339,35,o),
+(461,-46,o),
+(642,97,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+AngleInDegrees = "10";
 };
 }),
-(580,696,l,{
+(801,223,o),
+(850,336,o),
+(852,391,cs),
+(853,453,o),
+(760,511,o),
+(637,394,c,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+MinorAxisWidth = "-40";
+ValidForParentMinorAxisWidth = "180";
 };
 }),
-(475,479,o),
-(439,396,o),
-(374,166,cs,{
+(1024,978,o),
+(1220,532,o),
+(1097,-166,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 9.99999;
-};
-}),
-(337,35,o),
-(434,-45,o),
-(580,127,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = 10;
-};
-}),
-(891,493,o),
-(909,522,o),
-(984,585,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = 10;
-};
-}),
-(1122,701,o),
-(1171,264,o),
-(1095,-166,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = 9.99999;
+AngleInDegrees = "9.99999";
 };
 })
 );
 }
 );
-width = 1240;
+width = 1246;
 }
 );
 unicode = 3487;

@@ -36,7 +36,7 @@ pos = (1392,0);
 ref = "lVocalicMatra-sinhala";
 }
 );
-width = 2016;
+width = 2013;
 }
 );
 script = sinhala;

@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = iMatra;
-pos = (597,760);
+pos = (647,760);
 },
 {
 name = rakar;
@@ -80,7 +80,7 @@ width = 1131;
 anchors = (
 {
 name = iMatra;
-pos = (597,800);
+pos = (647,800);
 },
 {
 name = rakar;

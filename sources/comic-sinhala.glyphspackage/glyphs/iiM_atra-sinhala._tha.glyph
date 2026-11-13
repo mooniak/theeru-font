@@ -90,30 +90,24 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(147,953,l,{
-"Letterink-NibData" = {
-AngleInDegrees = 0;
-};
-}),
+(147,953,l),
 (-23,970,o),
 (-208,1239,o),
-(126,1386,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = 0;
-};
-}),
+(126,1386,cs),
 (446,1527,o),
 (736,1384,o),
 (698,1193,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
 };
 }),
 (656,983,o),
 (333,1162,o),
 (565,1377,c,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
 };
 })
 );

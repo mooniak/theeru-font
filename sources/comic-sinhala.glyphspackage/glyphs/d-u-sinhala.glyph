@@ -45,7 +45,7 @@ AngleInDegrees = "360";
 );
 }
 );
-width = 770;
+width = 680;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -91,7 +91,7 @@ AngleInDegrees = "360";
 );
 }
 );
-width = 756;
+width = 726;
 }
 );
 }

@@ -1,13 +1,34 @@
 {
+color = 3;
 glyphname = guilsinglright;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(133,497,l),
+(269,295,l),
+(116,92,l)
+);
+}
+);
+width = 386;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(134,497,l),
+(270,295,l),
+(117,92,l)
+);
+}
+);
+width = 387;
 }
 );
 unicode = 8250;

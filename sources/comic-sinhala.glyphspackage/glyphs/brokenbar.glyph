@@ -1,0 +1,63 @@
+{
+color = 3;
+glyphname = brokenbar;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(220,849,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(202,514,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(192,234,l),
+(173,-130,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+width = 393;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(228,849,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(210,514,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(200,234,l),
+(181,-130,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+width = 409;
+}
+);
+unicode = 166;
+}

@@ -47,12 +47,18 @@ nodes = (
 (362,737,o),
 (331,556,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
 };
 }),
 (309,426,o),
 (135,391,o),
-(135,511,cs),
+(135,511,cs,{
+"Letterink-NibData" = {
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
+};
+}),
 (135,698,o)
 );
 },
@@ -62,12 +68,18 @@ nodes = (
 (322,348,o),
 (291,167,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
 };
 }),
 (269,37,o),
 (95,2,o),
-(95,122,cs),
+(95,122,cs,{
+"Letterink-NibData" = {
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
+};
+}),
 (95,309,o)
 );
 }
