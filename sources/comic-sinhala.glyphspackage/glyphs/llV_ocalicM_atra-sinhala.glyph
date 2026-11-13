@@ -1,15 +1,105 @@
 {
 category = Mark;
-color = 0;
 glyphname = "llVocalicMatra-sinhala";
 layers = (
 {
 layerId = m01;
-width = 300;
+shapes = (
+{
+closed = 0;
+nodes = (
+(181,689,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(-32,415,o),
+(158,262,o),
+(256,448,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(305,541,o),
+(355,685,o),
+(417,675,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(527,657,o),
+(533,569,o),
+(465,345,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(373,42,o),
+(167,-89,o),
+(96,174,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(50,345,o),
+(332,139,o),
+(338,97,c)
+);
+}
+);
+width = 625;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(179,689,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(-34,415,o),
+(156,262,o),
+(254,448,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
+};
+}),
+(303,541,o),
+(353,665,o),
+(415,675,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
+};
+}),
+(525,693,o),
+(531,569,o),
+(463,345,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(371,42,o),
+(165,-125,o),
+(94,174,cs,{
+"Letterink-NibData" = {
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
+};
+}),
+(53,345,o),
+(330,139,o),
+(336,97,c)
+);
+}
+);
+width = 619;
 }
 );
 script = sinhala;

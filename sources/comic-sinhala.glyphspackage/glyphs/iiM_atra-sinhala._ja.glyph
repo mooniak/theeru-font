@@ -61,13 +61,16 @@ AngleInDegrees = 360;
 (324,1370,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
 };
 }),
 (530,1320,o),
 (278,989,o),
 (95,1262,c,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
 };
 })
 );
