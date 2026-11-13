@@ -36,7 +36,7 @@ AngleInDegrees = 359.99999;
 );
 }
 );
-width = 510;
+width = 504;
 },
 {
 anchors = (
@@ -72,9 +72,10 @@ AngleInDegrees = 359.99999;
 );
 }
 );
-width = 510;
+width = 505;
 }
 );
+metricRight = "ga-sinhala";
 script = sinhala;
 subCategory = Spacing;
 unicode = 3535;

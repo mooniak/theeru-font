@@ -10,19 +10,19 @@ ref = "eMatra-sinhala";
 },
 {
 alignment = 1;
-pos = (732,0);
+pos = (742,0);
 ref = dottedCircle;
 },
 {
-pos = (1434,0);
+pos = (1444,0);
 ref = "aaMatra-sinhala";
 },
 {
-pos = (1914,0);
+pos = (1924,0);
 ref = "virama-sinhala";
 }
 );
-width = 1944;
+width = 1948;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -32,19 +32,19 @@ ref = "eMatra-sinhala";
 },
 {
 alignment = 1;
-pos = (732,0);
+pos = (746,0);
 ref = dottedCircle;
 },
 {
-pos = (1392,0);
+pos = (1406,0);
 ref = "aaMatra-sinhala";
 },
 {
-pos = (1862,0);
+pos = (1876,0);
 ref = "virama-sinhala";
 }
 );
-width = 1902;
+width = 1911;
 }
 );
 script = sinhala;

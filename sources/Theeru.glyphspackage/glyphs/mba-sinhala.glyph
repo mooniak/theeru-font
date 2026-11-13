@@ -155,8 +155,10 @@ AngleInDegrees = "5.415521627583075e-06";
 );
 }
 );
-width = 997;
+width = 996;
 }
 );
+metricLeft = "o-sinhala";
+metricRight = "o-sinhala";
 unicode = 3513;
 }

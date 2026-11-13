@@ -9,11 +9,11 @@ shapes = (
 ref = "eMatra-sinhala";
 },
 {
-pos = (732,0);
+pos = (742,0);
 ref = "eMatra-sinhala";
 }
 );
-width = 1464;
+width = 1484;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -22,11 +22,11 @@ shapes = (
 ref = "eMatra-sinhala";
 },
 {
-pos = (732,0);
+pos = (746,0);
 ref = "eMatra-sinhala";
 }
 );
-width = 1464;
+width = 1492;
 }
 );
 script = sinhala;

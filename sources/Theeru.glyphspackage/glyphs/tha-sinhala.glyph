@@ -5,15 +5,15 @@ layers = (
 anchors = (
 {
 name = iMatra;
-pos = (397,760);
+pos = (419,760);
 },
 {
 name = rakar;
-pos = (723,0);
+pos = (745,0);
 },
 {
 name = virama;
-pos = (738,891);
+pos = (760,891);
 }
 );
 layerId = m01;
@@ -21,42 +21,42 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(378,609,l,{
+(400,609,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(49,455,o),
-(2,40,o),
-(285,39,cs,{
+(71,455,o),
+(24,40,o),
+(307,39,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(524,38,o),
-(722,242,o),
-(746,609,cs,{
+(546,38,o),
+(744,242,o),
+(768,609,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(776,1053,o),
-(505,1158,o),
-(208,1193,c,{
+(798,1053,o),
+(527,1158,o),
+(230,1193,c,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(314,1131,o),
-(311,1071,o),
-(333,976,cs,{
+(336,1131,o),
+(333,1071,o),
+(355,976,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(363,846,o),
-(510,740,o),
-(688,891,cs,{
+(385,846,o),
+(532,740,o),
+(710,891,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
@@ -64,21 +64,21 @@ AngleInDegrees = 0;
 );
 }
 );
-width = 863;
+width = 883;
 },
 {
 anchors = (
 {
 name = iMatra;
-pos = (357,800);
+pos = (376,800);
 },
 {
 name = rakar;
-pos = (723,0);
+pos = (742,0);
 },
 {
 name = virama;
-pos = (739,891);
+pos = (758,891);
 }
 );
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -86,42 +86,42 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(381,609,l,{
+(400,609,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(52,455,o),
-(5,40,o),
-(288,39,cs,{
+(71,455,o),
+(24,40,o),
+(307,39,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(527,38,o),
-(725,242,o),
-(749,609,cs,{
+(546,38,o),
+(744,242,o),
+(768,609,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(779,1053,o),
-(508,1158,o),
-(211,1193,c,{
+(798,1053,o),
+(527,1158,o),
+(230,1193,c,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(317,1131,o),
-(314,1071,o),
-(336,976,cs,{
+(336,1131,o),
+(333,1071,o),
+(355,976,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(366,846,o),
-(513,740,o),
-(691,891,cs,{
+(385,846,o),
+(532,740,o),
+(710,891,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
@@ -129,8 +129,10 @@ AngleInDegrees = 0;
 );
 }
 );
-width = 866;
+width = 887;
 }
 );
+metricLeft = "ya-sinhala";
+metricRight = "ddha-sinhala";
 unicode = 3502;
 }

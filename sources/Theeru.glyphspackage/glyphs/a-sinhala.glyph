@@ -7,28 +7,28 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(124,663,l,{
+(137,663,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(261,796,o),
-(470,835,o),
-(504,674,cs,{
+(274,796,o),
+(483,835,o),
+(517,674,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
 }),
-(540,504,o),
-(324,405,o),
-(156,262,cs,{
+(553,504,o),
+(337,405,o),
+(169,262,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(-108,37,o),
-(293,-151,o),
-(740,105,c,{
+(-95,37,o),
+(306,-151,o),
+(753,105,c,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
@@ -38,12 +38,12 @@ AngleInDegrees = 0;
 {
 closed = 0;
 nodes = (
-(675,814,l,{
+(688,814,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(504,-408,l,{
+(517,-408,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
@@ -51,7 +51,7 @@ AngleInDegrees = 0;
 );
 }
 );
-width = 810;
+width = 823;
 },
 {
 background = {
@@ -59,28 +59,28 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(124,594,l,{
+(167,594,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "0";
 };
 }),
-(261,727,o),
-(467,744,o),
-(504,605,cs,{
+(304,727,o),
+(510,744,o),
+(547,605,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = "360";
 };
 }),
-(566,373,o),
-(257,232,o),
-(141,115,cs,{
+(609,373,o),
+(300,232,o),
+(184,115,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = "0";
 };
 }),
-(46,19,o),
-(426,-6,o),
-(657,105,c,{
+(89,19,o),
+(469,-6,o),
+(700,105,c,{
 "Letterink-NibData" = {
 AngleInDegrees = "0";
 };
@@ -90,12 +90,12 @@ AngleInDegrees = "0";
 {
 closed = 0;
 nodes = (
-(675,745,l,{
+(718,745,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "0";
 };
 }),
-(504,-408,l,{
+(547,-408,l,{
 "Letterink-NibData" = {
 AngleInDegrees = "0";
 };
@@ -109,34 +109,35 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(124,663,l),
-(261,796,o),
-(470,835,o),
-(504,674,cs,{
+(167,663,l),
+(304,796,o),
+(513,835,o),
+(547,674,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 MinorAxisWidth = -40;
 ValidForParentMinorAxisWidth = 180;
 };
 }),
-(540,504,o),
-(324,405,o),
-(156,262,cs),
-(-108,37,o),
-(293,-151,o),
-(740,105,c)
+(583,504,o),
+(367,405,o),
+(199,262,cs),
+(-65,37,o),
+(336,-151,o),
+(783,105,c)
 );
 },
 {
 closed = 0;
 nodes = (
-(675,814,l),
-(504,-408,l)
+(718,814,l),
+(547,-408,l)
 );
 }
 );
-width = 810;
+width = 853;
 }
 );
+metricLeft = "pa-sinhala";
 unicode = 3461;
 }

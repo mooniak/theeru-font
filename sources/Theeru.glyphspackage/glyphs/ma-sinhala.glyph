@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = rakar;
-pos = (843,0);
+pos = (893,0);
 }
 );
 layerId = m01;
@@ -13,38 +13,38 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(65,867,ls,{
+(115,867,ls,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(236,991,o),
-(377,1043,o),
-(496,1043,cs),
-(801,1043,o),
-(904,712,o),
-(830,402,cs,{
+(286,991,o),
+(427,1043,o),
+(546,1043,cs),
+(851,1043,o),
+(954,712,o),
+(880,402,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 359.99999;
 };
 }),
-(771,157,o),
-(588,38,o),
-(389,39,cs,{
+(821,157,o),
+(638,38,o),
+(439,39,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(130,40,o),
-(89,212,o),
-(212,451,cs,{
+(180,40,o),
+(139,212,o),
+(262,451,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
 }),
-(390,798,o),
-(985,531,o),
-(222,97,cs,{
+(440,798,o),
+(1035,531,o),
+(272,97,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
@@ -52,13 +52,13 @@ AngleInDegrees = 0;
 );
 }
 );
-width = 969;
+width = 1017;
 },
 {
 anchors = (
 {
 name = rakar;
-pos = (843,0);
+pos = (893,0);
 }
 );
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -66,38 +66,38 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(65,867,ls,{
+(115,867,ls,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(236,991,o),
-(377,1043,o),
-(496,1043,cs),
-(801,1043,o),
-(904,712,o),
-(830,402,cs,{
+(286,991,o),
+(427,1043,o),
+(546,1043,cs),
+(851,1043,o),
+(954,712,o),
+(880,402,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 359.99999;
 };
 }),
-(771,157,o),
-(588,38,o),
-(389,39,cs,{
+(821,157,o),
+(638,38,o),
+(439,39,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(130,40,o),
-(89,212,o),
-(212,451,cs,{
+(180,40,o),
+(139,212,o),
+(262,451,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
 }),
-(390,798,o),
-(985,531,o),
-(222,97,cs,{
+(440,798,o),
+(1035,531,o),
+(272,97,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
@@ -105,8 +105,10 @@ AngleInDegrees = 0;
 );
 }
 );
-width = 969;
+width = 1017;
 }
 );
+metricLeft = "o-sinhala";
+metricRight = "o-sinhala";
 unicode = 3512;
 }

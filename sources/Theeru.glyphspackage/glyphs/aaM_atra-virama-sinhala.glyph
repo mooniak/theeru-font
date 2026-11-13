@@ -13,7 +13,7 @@ pos = (480,0);
 ref = "virama-sinhala";
 }
 );
-width = 510;
+width = 504;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -26,7 +26,7 @@ pos = (470,0);
 ref = "virama-sinhala";
 }
 );
-width = 510;
+width = 505;
 }
 );
 script = sinhala;

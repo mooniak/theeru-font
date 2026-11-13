@@ -10,15 +10,15 @@ ref = "eMatra-sinhala";
 },
 {
 alignment = 1;
-pos = (732,0);
+pos = (742,0);
 ref = dottedCircle;
 },
 {
-pos = (1434,0);
+pos = (1444,0);
 ref = "lVocalicMatra-sinhala";
 }
 );
-width = 2058;
+width = 2063;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -28,15 +28,15 @@ ref = "eMatra-sinhala";
 },
 {
 alignment = 1;
-pos = (732,0);
+pos = (746,0);
 ref = dottedCircle;
 },
 {
-pos = (1392,0);
+pos = (1406,0);
 ref = "lVocalicMatra-sinhala";
 }
 );
-width = 2013;
+width = 2026;
 }
 );
 script = sinhala;

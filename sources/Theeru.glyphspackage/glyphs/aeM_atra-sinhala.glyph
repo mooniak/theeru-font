@@ -35,7 +35,7 @@ AngleInDegrees = 360;
 );
 }
 );
-width = 544;
+width = 534;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -73,6 +73,7 @@ AngleInDegrees = "360";
 width = 561;
 }
 );
+metricRight = "da-sinhala";
 script = sinhala;
 subCategory = Spacing;
 unicode = 3536;

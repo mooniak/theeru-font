@@ -47,7 +47,7 @@ AngleInDegrees = "0";
 );
 }
 );
-width = 625;
+width = 619;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -55,53 +55,55 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(179,689,l,{
+(181,689,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
 }),
-(-34,415,o),
-(156,262,o),
-(254,448,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = 360;
-MinorAxisWidth = -40;
-ValidForParentMinorAxisWidth = 180;
-};
-}),
-(303,541,o),
-(353,665,o),
-(415,675,cs,{
+(-32,415,o),
+(158,262,o),
+(256,448,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 MinorAxisWidth = -40;
 ValidForParentMinorAxisWidth = 180;
 };
 }),
-(525,693,o),
-(531,569,o),
-(463,345,cs,{
+(305,541,o),
+(355,665,o),
+(417,675,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
+};
+}),
+(527,693,o),
+(533,569,o),
+(465,345,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
 }),
-(371,42,o),
-(165,-125,o),
-(94,174,cs,{
+(373,42,o),
+(167,-125,o),
+(96,174,cs,{
 "Letterink-NibData" = {
 MinorAxisWidth = -40;
 ValidForParentMinorAxisWidth = 180;
 };
 }),
-(53,345,o),
-(330,139,o),
-(336,97,c)
+(55,345,o),
+(332,139,o),
+(338,97,c)
 );
 }
 );
-width = 619;
+width = 620;
 }
 );
+metricLeft = "lVocalicMatra-sinhala";
+metricRight = "ga-sinhala";
 script = sinhala;
 subCategory = Spacing;
 unicode = 3571;

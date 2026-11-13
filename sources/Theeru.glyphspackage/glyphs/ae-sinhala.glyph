@@ -8,11 +8,11 @@ shapes = (
 ref = "a-sinhala";
 },
 {
-pos = (810,0);
+pos = (823,0);
 ref = "aeMatra-sinhala";
 }
 );
-width = 1354;
+width = 1357;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -21,11 +21,11 @@ shapes = (
 ref = "a-sinhala";
 },
 {
-pos = (810,0);
+pos = (853,0);
 ref = "aeMatra-sinhala";
 }
 );
-width = 1371;
+width = 1414;
 }
 );
 unicode = 3463;

@@ -7,24 +7,24 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(283,637,l,{
+(322,637,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(402,763,o),
-(787,815,o),
-(692,437,cs,{
+(441,763,o),
+(826,815,o),
+(731,437,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
 }),
-(597,59,o),
-(115,-183,o),
-(115,292,cs),
-(115,770,o),
-(407,1084,o),
-(662,1281,cs,{
+(636,59,o),
+(154,-183,o),
+(154,292,cs),
+(154,770,o),
+(446,1084,o),
+(701,1281,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
@@ -34,35 +34,35 @@ AngleInDegrees = 360;
 {
 closed = 1;
 nodes = (
-(657,1160,o),
-(819,1159,o),
-(824,1028,cs,{
+(696,1160,o),
+(858,1159,o),
+(863,1028,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(828,897,o),
-(657,734,o),
-(657,943,cs)
+(867,897,o),
+(696,734,o),
+(696,943,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(82,1328,o),
-(244,1327,o),
-(249,1196,cs,{
+(121,1328,o),
+(283,1327,o),
+(288,1196,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(253,1065,o),
-(82,902,o),
-(82,1111,cs)
+(292,1065,o),
+(121,902,o),
+(121,1111,cs)
 );
 }
 );
-width = 823;
+width = 979;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -70,20 +70,20 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(283,637,l),
-(402,763,o),
-(787,815,o),
-(692,437,cs,{
+(322,637,l),
+(441,763,o),
+(826,815,o),
+(731,437,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
 }),
-(597,59,o),
-(115,-183,o),
-(115,292,cs),
-(115,770,o),
-(407,1084,o),
-(662,1281,cs,{
+(636,59,o),
+(154,-183,o),
+(154,292,cs),
+(154,770,o),
+(446,1084,o),
+(701,1281,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
@@ -93,9 +93,9 @@ AngleInDegrees = 360;
 {
 closed = 1;
 nodes = (
-(657,1160,o),
-(819,1159,o),
-(824,1028,cs,{
+(696,1160,o),
+(858,1159,o),
+(863,1028,cs,{
 "Letterink-NibData" = {
 MainAxisWidth = -20;
 MinorAxisWidth = -50;
@@ -103,9 +103,9 @@ ValidForParentMainAxisWidth = 140;
 ValidForParentMinorAxisWidth = 180;
 };
 }),
-(828,897,o),
-(657,734,o),
-(657,943,cs,{
+(867,897,o),
+(696,734,o),
+(696,943,cs,{
 "Letterink-NibData" = {
 MainAxisWidth = -20;
 MinorAxisWidth = -50;
@@ -118,9 +118,9 @@ ValidForParentMinorAxisWidth = 180;
 {
 closed = 1;
 nodes = (
-(82,1328,o),
-(244,1327,o),
-(249,1196,cs,{
+(121,1328,o),
+(283,1327,o),
+(288,1196,cs,{
 "Letterink-NibData" = {
 MainAxisWidth = -20;
 MinorAxisWidth = -50;
@@ -128,9 +128,9 @@ ValidForParentMainAxisWidth = 140;
 ValidForParentMinorAxisWidth = 180;
 };
 }),
-(253,1065,o),
-(82,902,o),
-(82,1111,cs,{
+(292,1065,o),
+(121,902,o),
+(121,1111,cs,{
 "Letterink-NibData" = {
 MainAxisWidth = -20;
 MinorAxisWidth = -50;
@@ -141,8 +141,10 @@ ValidForParentMinorAxisWidth = 180;
 );
 }
 );
-width = 823;
+width = 979;
 }
 );
+metricLeft = "ya-sinhala";
+metricRight = "ra-sinhala";
 unicode = 3466;
 }

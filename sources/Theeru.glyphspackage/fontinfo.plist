@@ -1,18 +1,10 @@
 {
-.appVersion = "3436";
+.appVersion = "3532";
 .formatVersion = 3;
 axes = (
 {
 name = Weight;
 tag = wght;
-},
-{
-name = Width;
-tag = wdth;
-},
-{
-name = "Optical size";
-tag = opsz;
 }
 );
 classes = (
@@ -1377,8 +1369,6 @@ tag = psts;
 fontMaster = (
 {
 axesValues = (
-0,
-0,
 0
 );
 customParameters = (
@@ -1421,9 +1411,7 @@ MinorAxisWidth = 120;
 },
 {
 axesValues = (
-100,
-0,
-0
+100
 );
 customParameters = (
 {
@@ -1464,8 +1452,6 @@ MinorAxisWidth = 180;
 instances = (
 {
 axesValues = (
-0,
-0,
 0
 );
 instanceInterpolations = {
@@ -1475,9 +1461,7 @@ name = Regular;
 },
 {
 axesValues = (
-50,
-0,
-0
+50
 );
 instanceInterpolations = {
 "E709769C-42F1-4D29-B095-21FC93F07D45" = 0.5;
@@ -1487,9 +1471,7 @@ name = Medium;
 },
 {
 axesValues = (
-100,
-0,
-0
+100
 );
 instanceInterpolations = {
 "E709769C-42F1-4D29-B095-21FC93F07D45" = 1;
@@ -1547,7 +1529,16 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "New Value";
+value = "(c) 2026 Mooniak";
+}
+);
+},
+{
+key = descriptions;
+values = (
+{
+language = dflt;
+value = "Theeru is an open-source display font family for comics and graphic storytelling from Mooniak, initiated with support from comic artist Sachi Ediriweera. The font currently covers Sinhala only, designed by Kosala Senevirathne; Mooniak and Sachi plan to extend it to support other languages of the South Asian region.";
 }
 );
 },

@@ -7,47 +7,47 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(351,403,l,{
+(377,403,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
 }),
-(711,552,l,{
+(737,552,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(571,384,o),
-(367,31,o),
-(732,214,cs,{
+(597,384,o),
+(393,31,o),
+(758,214,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(1052,375,o),
-(966,866,o),
-(631,834,cs,{
+(1078,375,o),
+(992,866,o),
+(657,834,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 359.99999;
 };
 }),
-(304,803,o),
-(151,461,o),
-(111,215,cs,{
+(330,803,o),
+(177,461,o),
+(137,215,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(49,-166,o),
-(156,-464,o),
-(534,-357,cs,{
+(75,-166,o),
+(182,-464,o),
+(560,-357,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(689,-313,o),
-(805,-223,o),
-(949,-47,cs,{
+(715,-313,o),
+(831,-223,o),
+(975,-47,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
@@ -55,7 +55,7 @@ AngleInDegrees = 360;
 );
 }
 );
-width = 1064;
+width = 1045;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -63,47 +63,47 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(409,369,l,{
+(415,369,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
 }),
-(769,518,l,{
+(775,518,l,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(629,350,o),
-(425,-3,o),
-(790,180,cs,{
+(635,350,o),
+(431,-3,o),
+(796,180,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(1110,341,o),
-(1023,851,o),
-(649,805,cs,{
+(1116,341,o),
+(1029,851,o),
+(655,805,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 359.99999;
 };
 }),
-(352,769,o),
-(169,457,o),
-(129,211,cs,{
+(358,769,o),
+(175,457,o),
+(135,211,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(67,-170,o),
-(214,-498,o),
-(592,-391,cs,{
+(73,-170,o),
+(220,-498,o),
+(598,-391,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 0;
 };
 }),
-(747,-347,o),
-(863,-257,o),
-(1007,-81,cs,{
+(753,-347,o),
+(869,-257,o),
+(1013,-81,cs,{
 "Letterink-NibData" = {
 AngleInDegrees = 360;
 };
@@ -111,8 +111,10 @@ AngleInDegrees = 360;
 );
 }
 );
-width = 1124;
+width = 1083;
 }
 );
+metricLeft = "ya-sinhala";
+metricRight = "a-sinhala";
 unicode = 3517;
 }

@@ -77,7 +77,7 @@ AngleInDegrees = 360;
 );
 }
 );
-width = 1134;
+width = 1136;
 },
 {
 anchors = (
@@ -155,8 +155,10 @@ AngleInDegrees = 360;
 );
 }
 );
-width = 1134;
+width = 1136;
 }
 );
+metricLeft = "sa-sinhala";
+metricRight = "sa-sinhala";
 unicode = 3485;
 }
