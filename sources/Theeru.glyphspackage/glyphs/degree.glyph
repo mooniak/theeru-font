@@ -33,16 +33,44 @@ closed = 1;
 nodes = (
 (350,617,o),
 (406,673,o),
-(406,744,cs),
+(406,744,cs,{
+"Letterink-NibData" = {
+MainAxisWidth = -25;
+MinorAxisWidth = -30;
+ValidForParentMainAxisWidth = 140;
+ValidForParentMinorAxisWidth = 180;
+};
+}),
 (406,814,o),
 (350,870,o),
-(280,870,cs),
+(280,870,cs,{
+"Letterink-NibData" = {
+MainAxisWidth = -25;
+MinorAxisWidth = -30;
+ValidForParentMainAxisWidth = 140;
+ValidForParentMinorAxisWidth = 180;
+};
+}),
 (209,870,o),
 (153,814,o),
-(153,744,cs),
+(153,744,cs,{
+"Letterink-NibData" = {
+MainAxisWidth = -25;
+MinorAxisWidth = -30;
+ValidForParentMainAxisWidth = 140;
+ValidForParentMinorAxisWidth = 180;
+};
+}),
 (153,673,o),
 (209,617,o),
-(280,617,cs)
+(280,617,cs,{
+"Letterink-NibData" = {
+MainAxisWidth = -25;
+MinorAxisWidth = -30;
+ValidForParentMainAxisWidth = 140;
+ValidForParentMinorAxisWidth = 180;
+};
+})
 );
 }
 );

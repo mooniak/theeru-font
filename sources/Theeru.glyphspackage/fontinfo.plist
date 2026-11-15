@@ -1463,6 +1463,37 @@ MinorAxisWidth = 180;
 );
 instances = (
 {
+customParameters = (
+{
+name = fileName;
+value = TheeruVF;
+},
+{
+name = "Variable Font Origin";
+value = m01;
+},
+{
+name = "Remove Glyphs";
+value = (
+.notdef
+);
+}
+);
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Theeru VF";
+}
+);
+}
+);
+type = variable;
+},
+{
 axesValues = (
 0,
 0,

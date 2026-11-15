@@ -39,6 +39,9 @@ nodes = (
 );
 }
 );
+userData = {
+"Letterink-ComputationAllowed" = NO;
+};
 width = 952;
 },
 {
@@ -79,6 +82,9 @@ nodes = (
 );
 }
 );
+userData = {
+"Letterink-ComputationAllowed" = NO;
+};
 width = 952;
 }
 );
