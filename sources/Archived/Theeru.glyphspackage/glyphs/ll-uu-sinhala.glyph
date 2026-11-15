@@ -1,0 +1,31 @@
+{
+glyphname = "ll-uu-sinhala";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "ll-u-sinhala";
+},
+{
+pos = (1065,0);
+ref = "aaeMatra-sinhala";
+}
+);
+width = 1631;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+ref = "ll-u-sinhala";
+},
+{
+pos = (1068,0);
+ref = "aaeMatra-sinhala";
+}
+);
+width = 1638;
+}
+);
+}

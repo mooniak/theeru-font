@@ -1,0 +1,67 @@
+{
+category = Mark;
+color = 9;
+glyphname = "iMatra-sinhala._pa";
+layers = (
+{
+anchors = (
+{
+name = _iMatra;
+pos = (-368,760);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(-630,881,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(-577,1246,o),
+(-68,1243,o),
+(-146,939,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+})
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _iMatra;
+pos = (-368,750);
+}
+);
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(-630,881,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "0";
+};
+}),
+(-577,1246,o),
+(9,1253,o),
+(-132,908,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+width = 0;
+}
+);
+script = sinhala;
+subCategory = Nonspacing;
+}

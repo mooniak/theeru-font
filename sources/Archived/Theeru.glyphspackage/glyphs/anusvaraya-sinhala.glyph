@@ -1,0 +1,51 @@
+{
+category = Mark;
+glyphname = "anusvaraya-sinhala";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(597,697,o),
+(531,312,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(484,36,o),
+(115,-39,o),
+(115,216,cs),
+(115,614,o)
+);
+}
+);
+width = 654;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 1;
+nodes = (
+(599,697,o),
+(533,312,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(486,36,o),
+(117,-39,o),
+(117,216,cs),
+(117,614,o)
+);
+}
+);
+width = 657;
+}
+);
+script = sinhala;
+subCategory = Spacing;
+unicode = 3458;
+}

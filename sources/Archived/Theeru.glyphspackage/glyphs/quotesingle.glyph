@@ -1,0 +1,25 @@
+{
+color = 3;
+glyphname = quotesingle;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = quoteleft;
+}
+);
+width = 304;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+ref = quoteleft;
+}
+);
+width = 308;
+}
+);
+unicode = 39;
+}

@@ -1,0 +1,35 @@
+{
+color = 3;
+glyphname = greater;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(132,497,l),
+(490,295,l),
+(115,92,l)
+);
+}
+);
+width = 605;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(134,497,l),
+(483,295,l),
+(117,92,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 62;
+}

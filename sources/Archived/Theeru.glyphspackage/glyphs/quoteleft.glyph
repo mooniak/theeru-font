@@ -1,0 +1,48 @@
+{
+glyphname = quoteleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(189,1273,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(115,1113,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+width = 304;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(191,1273,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(117,1113,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+width = 308;
+}
+);
+unicode = 8216;
+}

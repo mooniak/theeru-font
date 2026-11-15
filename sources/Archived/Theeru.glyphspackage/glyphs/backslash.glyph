@@ -1,0 +1,48 @@
+{
+glyphname = backslash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(173,807,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(407,-124,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+width = 600;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(181,867,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(393,-114,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+width = 634;
+}
+);
+unicode = 92;
+}

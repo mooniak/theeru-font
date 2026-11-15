@@ -1,0 +1,56 @@
+{
+glyphname = exclam;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(276,849,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(149,220,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+})
+);
+},
+{
+pos = (-108,-106);
+ref = period;
+}
+);
+width = 391;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(334,935,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(210,262,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+})
+);
+},
+{
+pos = (-50,-140);
+ref = period;
+}
+);
+width = 449;
+}
+);
+unicode = 33;
+}

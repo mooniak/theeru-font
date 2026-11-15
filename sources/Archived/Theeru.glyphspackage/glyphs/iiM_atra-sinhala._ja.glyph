@@ -1,0 +1,84 @@
+{
+category = Mark;
+color = 9;
+glyphname = "iiMatra-sinhala._ja";
+layers = (
+{
+anchors = (
+{
+name = _iMatra;
+pos = (75,760);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(123,842,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(-81,1126,o),
+(100,1424,o),
+(324,1370,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(530,1320,o),
+(278,989,o),
+(95,1262,c,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+})
+);
+}
+);
+width = 842;
+},
+{
+anchors = (
+{
+name = _iMatra;
+pos = (65,800);
+}
+);
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(123,842,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(-81,1126,o),
+(100,1424,o),
+(324,1370,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
+};
+}),
+(530,1320,o),
+(278,989,o),
+(95,1262,c,{
+"Letterink-NibData" = {
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
+};
+})
+);
+}
+);
+width = 842;
+}
+);
+script = sinhala;
+subCategory = Nonspacing;
+}
