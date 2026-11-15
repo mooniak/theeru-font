@@ -1473,6 +1473,7 @@ name = "Variable Font Origin";
 value = m01;
 },
 {
+disabled = 1;
 name = "Remove Glyphs";
 value = (
 .notdef
@@ -1620,7 +1621,6 @@ value = "https://mooniak.com";
 );
 unitsPerEm = 1000;
 userData = {
-"Letterink-ComputationAllowed" = YES_BY_DEFAULT;
 "Letterink-FileVersion" = 9;
 "Letterink-MinimumCompatibleMarketingVersion" = "1.0.12 (2021-11-02)";
 "Letterink-StrokeType" = Brush;

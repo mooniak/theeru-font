@@ -2,6 +2,17 @@
 glyphname = "r-u-sinhala";
 layers = (
 {
+background = {
+shapes = (
+{
+ref = "ra-sinhala";
+},
+{
+pos = (823,0);
+ref = "aeMatra-sinhala";
+}
+);
+};
 layerId = m01;
 shapes = (
 {

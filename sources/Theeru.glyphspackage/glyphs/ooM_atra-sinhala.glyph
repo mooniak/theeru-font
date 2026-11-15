@@ -3,6 +3,26 @@ category = Mark;
 glyphname = "ooMatra-sinhala";
 layers = (
 {
+background = {
+shapes = (
+{
+ref = "eMatra-sinhala";
+},
+{
+alignment = 1;
+pos = (732,0);
+ref = dottedCircle;
+},
+{
+pos = (1434,0);
+ref = "aaMatra-sinhala";
+},
+{
+pos = (1914,0);
+ref = "virama-sinhala";
+}
+);
+};
 layerId = m01;
 shapes = (
 {

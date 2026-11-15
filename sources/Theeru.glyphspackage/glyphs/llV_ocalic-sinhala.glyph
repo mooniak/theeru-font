@@ -2,6 +2,17 @@
 glyphname = "llVocalic-sinhala";
 layers = (
 {
+background = {
+shapes = (
+{
+ref = "lVocalic-sinhala";
+},
+{
+pos = (1401,0);
+ref = "lVocalicMatra-sinhala";
+}
+);
+};
 layerId = m01;
 shapes = (
 {

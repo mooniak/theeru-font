@@ -2,6 +2,18 @@
 glyphname = semicolon;
 layers = (
 {
+background = {
+shapes = (
+{
+pos = (50,590);
+ref = period;
+},
+{
+pos = (-40,0);
+ref = comma;
+}
+);
+};
 layerId = m01;
 shapes = (
 {

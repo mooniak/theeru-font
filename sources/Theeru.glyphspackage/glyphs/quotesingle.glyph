@@ -3,6 +3,13 @@ color = 3;
 glyphname = quotesingle;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = quoteleft;
+}
+);
+};
 layerId = m01;
 shapes = (
 {

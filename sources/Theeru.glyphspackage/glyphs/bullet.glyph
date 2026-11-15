@@ -3,6 +3,29 @@ color = 3;
 glyphname = bullet;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(309,528,o),
+(116,335,o),
+(231,221,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(345,106,o),
+(538,299,o),
+(423,413,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+};
 layerId = m01;
 shapes = (
 {
@@ -25,9 +48,6 @@ AngleInDegrees = "360";
 );
 }
 );
-userData = {
-"Letterink-ComputationAllowed" = NO;
-};
 width = 654;
 },
 {
@@ -53,9 +73,6 @@ AngleInDegrees = "360";
 );
 }
 );
-userData = {
-"Letterink-ComputationAllowed" = NO;
-};
 width = 654;
 }
 );

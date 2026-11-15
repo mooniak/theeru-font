@@ -3,6 +3,17 @@ category = Mark;
 glyphname = "aaMatra-virama-sinhala";
 layers = (
 {
+background = {
+shapes = (
+{
+ref = "aaMatra-sinhala";
+},
+{
+pos = (480,0);
+ref = "virama-sinhala";
+}
+);
+};
 layerId = m01;
 shapes = (
 {

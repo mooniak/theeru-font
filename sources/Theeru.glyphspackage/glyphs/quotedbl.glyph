@@ -3,6 +3,13 @@ color = 3;
 glyphname = quotedbl;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = quotedblleft;
+}
+);
+};
 layerId = m01;
 shapes = (
 {

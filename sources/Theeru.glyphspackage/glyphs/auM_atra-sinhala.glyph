@@ -3,6 +3,22 @@ category = Mark;
 glyphname = "auMatra-sinhala";
 layers = (
 {
+background = {
+shapes = (
+{
+ref = "eMatra-sinhala";
+},
+{
+alignment = 1;
+pos = (732,0);
+ref = dottedCircle;
+},
+{
+pos = (1434,0);
+ref = "lVocalicMatra-sinhala";
+}
+);
+};
 layerId = m01;
 shapes = (
 {

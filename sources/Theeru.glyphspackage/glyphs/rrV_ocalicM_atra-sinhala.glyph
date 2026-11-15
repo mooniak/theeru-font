@@ -3,6 +3,17 @@ category = Mark;
 glyphname = "rrVocalicMatra-sinhala";
 layers = (
 {
+background = {
+shapes = (
+{
+ref = "rVocalicMatra-sinhala";
+},
+{
+pos = (558,0);
+ref = "rVocalicMatra-sinhala";
+}
+);
+};
 layerId = m01;
 shapes = (
 {

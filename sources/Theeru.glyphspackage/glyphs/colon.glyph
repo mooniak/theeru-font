@@ -2,6 +2,18 @@
 glyphname = colon;
 layers = (
 {
+background = {
+shapes = (
+{
+pos = (50,600);
+ref = period;
+},
+{
+pos = (-20,20);
+ref = period;
+}
+);
+};
 layerId = m01;
 shapes = (
 {
