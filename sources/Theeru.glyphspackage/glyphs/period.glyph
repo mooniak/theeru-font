@@ -2,6 +2,29 @@
 glyphname = period;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(215,207,o),
+(87,79,o),
+(163,3,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+}),
+(239,-73,o),
+(367,55,o),
+(291,131,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "360";
+};
+})
+);
+}
+);
+};
 layerId = m01;
 shapes = (
 {
@@ -24,9 +47,6 @@ AngleInDegrees = 360;
 );
 }
 );
-userData = {
-"Letterink-ComputationAllowed" = NO;
-};
 width = 454;
 },
 {
@@ -52,9 +72,6 @@ AngleInDegrees = 360;
 );
 }
 );
-userData = {
-"Letterink-ComputationAllowed" = NO;
-};
 width = 420;
 }
 );

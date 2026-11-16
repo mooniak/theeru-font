@@ -2,66 +2,66 @@
 glyphname = "mba-virama-sinhala";
 layers = (
 {
-layerId = m01;
+background = {
 shapes = (
 {
 closed = 0;
 nodes = (
 (172,313,l,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+AngleInDegrees = "0";
 };
 }),
 (371,356,o),
 (496,402,o),
 (519,523,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+AngleInDegrees = "0";
 };
 }),
 (558,728,o),
 (330,794,o),
 (202,570,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 360;
+AngleInDegrees = "360";
 };
 }),
 (84,364,o),
 (65,56,o),
 (293,39,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = -33.19766;
-MainAxisWidth = -11.58303;
-MinorAxisWidth = 9.41427;
-ValidForParentMainAxisWidth = 90;
-ValidForParentMinorAxisWidth = 120;
+AngleInDegrees = "-33.19766";
+MainAxisWidth = "-11.58303";
+MinorAxisWidth = "9.41427";
+ValidForParentMainAxisWidth = "90";
+ValidForParentMinorAxisWidth = "120";
 };
 }),
 (414,30,o),
 (374,227,o),
 (496,258,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = -38.47515;
-MainAxisWidth = -6.33126;
-MinorAxisWidth = 0.58308;
-ValidForParentMainAxisWidth = 90;
-ValidForParentMinorAxisWidth = 120;
+AngleInDegrees = "-38.47515";
+MainAxisWidth = "-6.33126";
+MinorAxisWidth = "0.58308";
+ValidForParentMainAxisWidth = "90";
+ValidForParentMinorAxisWidth = "120";
 };
 }),
 (591,282,o),
 (641,118,o),
 (666,76,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 80.45353;
-MainAxisWidth = -0.3286;
-ValidForParentMainAxisWidth = 90;
+AngleInDegrees = "80.45353";
+MainAxisWidth = "-0.3286";
+ValidForParentMainAxisWidth = "90";
 };
 }),
 (732,-32,o),
 (842,118,o),
 (875,402,cs,{
 "Letterink-NibData" = {
-AngleInDegrees = 0;
+AngleInDegrees = "0";
 };
 }),
 (909,697,o),
@@ -93,97 +93,153 @@ ValidForParentMainAxisWidth = "90";
 );
 }
 );
+};
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(86.368,351.804,o),
+(134.998,247.697,o),
+(196.184,260.919,cs),
+(395.894,304.072,o),
+(541.295,342.129,o),
+(571.248,499.644,cs),
+(624.825,781.383,o),
+(296.852,854.773,o),
+(153.885,604.884,cs),
+(57.488,436.394,o),
+(-11.232,-1.639,o),
+(299.369,-24.769,cs),
+(456.302,-36.456,o),
+(420.215,176.893,o),
+(506.448,198.741,cs),
+(566.298,213.905,o),
+(563.784,129.449,o),
+(615.831,43.157,cs),
+(750.943,-180.856,o),
+(906.038,194.364,o),
+(927.755,382.022,cs),
+(963.317,689.315,o),
+(873.773,1147.493,o),
+(130.816,991.081,cs),
+(69.267,978.124,o),
+(117.951,874.027,o),
+(179.184,886.919,cs),
+(846.218,1027.347,o),
+(854.924,704.359,o),
+(822.245,421.978,cs),
+(778.271,41.989,o),
+(718.314,105.287,o),
+(716.169,108.843,cs),
+(715.41,110.103,o),
+(628.036,353.359,o),
+(485.552,317.259,cs),
+(327.742,277.275,o),
+(371.697,96.435,o),
+(286.631,102.769,cs),
+(112.189,115.76,o),
+(116.613,301.77,o),
+(250.115,535.116,cs),
+(363.382,733.093,o),
+(491.143,674.623,o),
+(466.752,546.356,cs),
+(450.687,461.874,o),
+(346.106,407.928,o),
+(147.816,365.081,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(282.84,917.958,o),
+(358.649,940.991,o),
+(334.43,995.585,cs),
+(200.534,1297.418,o),
+(669.765,1159.133,o),
+(815.547,1010.088,cs),
+(870.561,953.841,o),
+(955.084,1040.059,o),
+(900.453,1095.912,cs),
+(775.833,1223.322,o),
+(41.86,1461.185,o),
+(259.57,970.415,cs)
+);
+}
+);
 width = 996;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
 shapes = (
 {
-closed = 0;
+closed = 1;
 nodes = (
-(156,313,l,{
-"Letterink-NibData" = {
-AngleInDegrees = "0";
-};
-}),
-(355,356,o),
-(480,402,o),
-(503,523,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = "0";
-};
-}),
-(542,728,o),
-(314,794,o),
-(186,570,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = "360";
-};
-}),
-(68,364,o),
-(49,56,o),
-(277,39,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = "-33.19766";
-MainAxisWidth = "-11.58303";
-MinorAxisWidth = "9.41427";
-ValidForParentMainAxisWidth = "90";
-ValidForParentMinorAxisWidth = "120";
-};
-}),
-(398,30,o),
-(358,227,o),
-(480,258,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = "-38.47515";
-MainAxisWidth = "-6.33126";
-MinorAxisWidth = "0.58308";
-ValidForParentMainAxisWidth = "90";
-ValidForParentMinorAxisWidth = "120";
-};
-}),
-(575,282,o),
-(625,118,o),
-(650,76,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = "80.45353";
-MainAxisWidth = "-0.3286";
-ValidForParentMainAxisWidth = "90";
-};
-}),
-(716,-32,o),
-(826,118,o),
-(859,402,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = "0";
-};
-}),
-(893,697,o),
-(842,1087,o),
-(139,939,c)
+(26.841,371.663,o),
+(95.775,213.415,o),
+(190.232,233.825,cs),
+(389.185,276.815,o),
+(548.642,312.376,o),
+(582.428,490.047,cs),
+(648.167,835.742,o),
+(247.184,855.691,o),
+(113.46,621.958,cs),
+(27.154,471.106,o),
+(-76.787,-29.701,o),
+(286.184,-56.732,cs),
+(424.534,-67.035,o),
+(481.531,165.5,o),
+(496.979,169.414,cs),
+(539.277,180.131,o),
+(499.699,151.141,o),
+(574.67,26.841,cs),
+(747.707,-260.048,o),
+(922.74,232.037,o),
+(939.199,374.26,cs),
+(975.647,689.214,o),
+(865.874,1178.407,o),
+(104.768,1018.175,cs),
+(9.685,998.157,o),
+(78.702,839.924,o),
+(173.232,859.825,cs),
+(840.266,1000.254,o),
+(811.192,709.632,o),
+(778.801,429.74,cs),
+(735.595,56.389,o),
+(727.296,121.898,o),
+(725.33,125.159,cs),
+(724.57,126.418,o),
+(622.958,387.109,o),
+(463.021,346.586,cs),
+(233.996,288.559,o),
+(372.085,126.967,o),
+(267.816,134.732,cs),
+(169.366,142.063,o),
+(108.996,256.657,o),
+(258.54,518.042,cs),
+(385.988,740.806,o),
+(434.14,611.525,o),
+(423.572,555.953,cs),
+(411.34,491.628,o),
+(320.815,435.185,o),
+(121.768,392.175,cs)
 );
 },
 {
-closed = 0;
+closed = 1;
 nodes = (
-(281,983,l,{
-"Letterink-NibData" = {
-AngleInDegrees = "-5.413352966308594";
-MainAxisWidth = "-12.47393226623535";
-MinorAxisWidth = "-28.39822387695312";
-ValidForParentMainAxisWidth = "90";
-ValidForParentMinorAxisWidth = "120";
-};
-}),
-(104,1382,o),
-(708,1190,o),
-(842,1053,cs,{
-"Letterink-NibData" = {
-AngleInDegrees = "47.92626549119842";
-MainAxisWidth = "31.61824873982712";
-ValidForParentMainAxisWidth = "90";
-};
-})
+(258.298,883.87,o),
+(375.128,921.118,o),
+(338.724,1003.183,cs),
+(226.176,1256.892,o),
+(629.315,1138.818,o),
+(779.557,985.212,cs),
+(863.692,899.194,o),
+(988.071,1035.288,o),
+(904.443,1120.788,cs),
+(786.618,1241.25,o),
+(-18.429,1507.678,o),
+(223.276,962.817,cs)
 );
 }
 );

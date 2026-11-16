@@ -3,19 +3,19 @@ color = 3;
 glyphname = percent;
 layers = (
 {
-layerId = m01;
+background = {
 shapes = (
 {
 closed = 0;
 nodes = (
 (588,837,l,{
 "Letterink-NibData" = {
-AngleInDegrees = 360;
+AngleInDegrees = "360";
 };
 }),
 (179,-51,l,{
 "Letterink-NibData" = {
-AngleInDegrees = 360;
+AngleInDegrees = "360";
 };
 })
 );
@@ -26,20 +26,20 @@ nodes = (
 (342,827,o),
 (311,646,cs,{
 "Letterink-NibData" = {
-MainAxisWidth = -20;
-MinorAxisWidth = -20;
-ValidForParentMainAxisWidth = 90;
-ValidForParentMinorAxisWidth = 120;
+MainAxisWidth = "-20";
+MinorAxisWidth = "-20";
+ValidForParentMainAxisWidth = "90";
+ValidForParentMinorAxisWidth = "120";
 };
 }),
 (289,516,o),
 (115,481,o),
 (115,601,cs,{
 "Letterink-NibData" = {
-MainAxisWidth = -20;
-MinorAxisWidth = -20;
-ValidForParentMainAxisWidth = 90;
-ValidForParentMinorAxisWidth = 120;
+MainAxisWidth = "-20";
+MinorAxisWidth = "-20";
+ValidForParentMainAxisWidth = "90";
+ValidForParentMinorAxisWidth = "120";
 };
 }),
 (115,788,o)
@@ -51,23 +51,88 @@ nodes = (
 (716,369,o),
 (685,188,cs,{
 "Letterink-NibData" = {
-MainAxisWidth = -20;
-MinorAxisWidth = -20;
-ValidForParentMainAxisWidth = 90;
-ValidForParentMinorAxisWidth = 120;
+MainAxisWidth = "-20";
+MinorAxisWidth = "-20";
+ValidForParentMainAxisWidth = "90";
+ValidForParentMinorAxisWidth = "120";
 };
 }),
 (663,58,o),
 (489,23,o),
 (489,143,cs,{
 "Letterink-NibData" = {
-MainAxisWidth = -20;
-MinorAxisWidth = -20;
-ValidForParentMainAxisWidth = 90;
-ValidForParentMinorAxisWidth = 120;
+MainAxisWidth = "-20";
+MinorAxisWidth = "-20";
+ValidForParentMainAxisWidth = "90";
+ValidForParentMinorAxisWidth = "120";
 };
 }),
 (489,330,o)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(661.776,857.576,o),
+(564.288,925.118,o),
+(538.784,869.745,cs),
+(402.45,573.745,o),
+(266.117,277.745,o),
+(129.784,-18.255,cs),
+(105.224,-71.576,o),
+(202.712,-139.118,o),
+(228.216,-83.745,cs),
+(364.55,212.255,o),
+(500.883,508.255,o),
+(637.216,804.255,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(244.586,527.204,o),
+(158.157,581.213,o),
+(158.157,586.234,cs),
+(158.157,731.764,o),
+(286.311,772.287,o),
+(268.374,666.928,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(397.359,881.947,o),
+(71.843,844.455,o),
+(71.843,615.766,cs),
+(71.843,380.643,o),
+(333.121,504.628,o),
+(353.626,625.072,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(618.586,69.204,o),
+(532.157,123.213,o),
+(532.157,128.234,cs),
+(532.157,273.764,o),
+(660.311,314.287,o),
+(642.374,208.928,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(771.359,423.947,o),
+(445.843,386.455,o),
+(445.843,157.766,cs),
+(445.843,-77.357,o),
+(707.121,46.628,o),
+(727.626,167.072,cs)
 );
 }
 );
@@ -77,68 +142,64 @@ width = 787;
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
 shapes = (
 {
-closed = 0;
+closed = 1;
 nodes = (
-(646,837,l,{
-"Letterink-NibData" = {
-AngleInDegrees = 360;
-};
-}),
-(237,-81,l,{
-"Letterink-NibData" = {
-AngleInDegrees = 360;
-};
-})
+(758.409,873.835,o),
+(609.448,970.425,o),
+(570.669,883.387,cs),
+(434.336,577.387,o),
+(298.003,271.387,o),
+(161.669,-34.613,cs),
+(124.591,-117.835,o),
+(273.552,-214.425,o),
+(312.331,-127.387,cs),
+(448.664,178.613,o),
+(584.997,484.613,o),
+(721.331,790.613,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(344,797,o),
-(313,616,cs,{
-"Letterink-NibData" = {
-MainAxisWidth = -70;
-MinorAxisWidth = -40;
-ValidForParentMainAxisWidth = 140;
-ValidForParentMinorAxisWidth = 180;
-};
-}),
-(291,486,o),
-(117,451,o),
-(117,571,cs,{
-"Letterink-NibData" = {
-MainAxisWidth = -70;
-MinorAxisWidth = -40;
-ValidForParentMainAxisWidth = 140;
-ValidForParentMinorAxisWidth = 180;
-};
-}),
-(117,758,o)
+(237.443,533.168,o),
+(172.338,534.533,o),
+(172.338,538.133,cs),
+(172.338,678.037,o),
+(271.835,735.172,o),
+(258.023,654.048,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(811,329,o),
-(780,148,cs,{
-"Letterink-NibData" = {
-MainAxisWidth = -70;
-MinorAxisWidth = -40;
-ValidForParentMainAxisWidth = 140;
-ValidForParentMinorAxisWidth = 180;
-};
-}),
-(758,18,o),
-(584,-17,o),
-(584,103,cs,{
-"Letterink-NibData" = {
-MainAxisWidth = -70;
-MinorAxisWidth = -40;
-ValidForParentMainAxisWidth = 140;
-ValidForParentMinorAxisWidth = 180;
-};
-}),
-(584,290,o)
+(417.01,865.958,o),
+(61.662,830.503,o),
+(61.662,603.867,cs),
+(61.662,300.207,o),
+(352.917,489.497,o),
+(367.977,577.952,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(704.443,65.168,o),
+(639.338,66.533,o),
+(639.338,70.133,cs),
+(639.338,210.037,o),
+(738.835,267.172,o),
+(725.023,186.048,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(884.01,397.958,o),
+(528.662,362.503,o),
+(528.662,135.867,cs),
+(528.662,-167.793,o),
+(819.917,21.497,o),
+(834.977,109.952,cs)
 );
 }
 );

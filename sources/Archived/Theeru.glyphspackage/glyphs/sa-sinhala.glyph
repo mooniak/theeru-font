@@ -1,0 +1,156 @@
+{
+glyphname = "sa-sinhala";
+layers = (
+{
+anchors = (
+{
+name = iMatra;
+pos = (647,760);
+},
+{
+name = rakar;
+pos = (1033,0);
+},
+{
+name = virama;
+pos = (868,760);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(209,665,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(382,738,o),
+(495,727,o),
+(533,641,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(583,528,o),
+(486,496,o),
+(95,331,c,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(224,362,o),
+(372,337,o),
+(356,179,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(338,-1,o),
+(515,-100,o),
+(676,314,c,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(713,128,o),
+(805,37,o),
+(903,37,cs),
+(958,37,o),
+(1142,128,o),
+(877,437,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(707,635,o),
+(820,748,o),
+(990,711,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+})
+);
+}
+);
+width = 1131;
+},
+{
+anchors = (
+{
+name = iMatra;
+pos = (647,800);
+},
+{
+name = rakar;
+pos = (1033,0);
+},
+{
+name = virama;
+pos = (888,790);
+}
+);
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(209,665,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(382,738,o),
+(495,727,o),
+(533,641,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(583,528,o),
+(486,496,o),
+(95,331,c,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(224,362,o),
+(372,337,o),
+(356,179,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(338,-1,o),
+(515,-100,o),
+(676,314,c,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(713,128,o),
+(805,37,o),
+(903,37,cs),
+(958,37,o),
+(1142,128,o),
+(877,437,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(707,635,o),
+(820,748,o),
+(990,711,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+})
+);
+}
+);
+width = 1131;
+}
+);
+unicode = 3523;
+}

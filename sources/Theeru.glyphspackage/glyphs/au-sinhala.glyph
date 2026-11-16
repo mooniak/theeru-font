@@ -2,6 +2,17 @@
 glyphname = "au-sinhala";
 layers = (
 {
+background = {
+shapes = (
+{
+ref = "o-sinhala";
+},
+{
+pos = (998,0);
+ref = "lVocalicMatra-sinhala";
+}
+);
+};
 layerId = m01;
 shapes = (
 {
@@ -12,7 +23,7 @@ pos = (998,0);
 ref = "lVocalicMatra-sinhala";
 }
 );
-width = 1617;
+width = 1622;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -25,7 +36,7 @@ pos = (998,0);
 ref = "lVocalicMatra-sinhala";
 }
 );
-width = 1618;
+width = 1619;
 }
 );
 unicode = 3478;

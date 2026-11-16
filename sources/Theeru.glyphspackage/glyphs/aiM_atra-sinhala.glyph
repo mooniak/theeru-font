@@ -3,17 +3,28 @@ category = Mark;
 glyphname = "aiMatra-sinhala";
 layers = (
 {
+background = {
+shapes = (
+{
+ref = "eMatra-sinhala";
+},
+{
+pos = (732,0);
+ref = "eMatra-sinhala";
+}
+);
+};
 layerId = m01;
 shapes = (
 {
 ref = "eMatra-sinhala";
 },
 {
-pos = (742,0);
+pos = (732,0);
 ref = "eMatra-sinhala";
 }
 );
-width = 1484;
+width = 1464;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -22,11 +33,11 @@ shapes = (
 ref = "eMatra-sinhala";
 },
 {
-pos = (746,0);
+pos = (732,0);
 ref = "eMatra-sinhala";
 }
 );
-width = 1492;
+width = 1464;
 }
 );
 script = sinhala;

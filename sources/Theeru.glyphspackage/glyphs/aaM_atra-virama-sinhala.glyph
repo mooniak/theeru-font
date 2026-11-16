@@ -3,6 +3,17 @@ category = Mark;
 glyphname = "aaMatra-virama-sinhala";
 layers = (
 {
+background = {
+shapes = (
+{
+ref = "aaMatra-sinhala";
+},
+{
+pos = (480,0);
+ref = "virama-sinhala";
+}
+);
+};
 layerId = m01;
 shapes = (
 {
@@ -13,7 +24,7 @@ pos = (480,0);
 ref = "virama-sinhala";
 }
 );
-width = 504;
+width = 510;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -26,7 +37,7 @@ pos = (470,0);
 ref = "virama-sinhala";
 }
 );
-width = 505;
+width = 510;
 }
 );
 script = sinhala;

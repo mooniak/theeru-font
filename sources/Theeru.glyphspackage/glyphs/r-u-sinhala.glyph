@@ -2,17 +2,28 @@
 glyphname = "r-u-sinhala";
 layers = (
 {
+background = {
+shapes = (
+{
+ref = "ra-sinhala";
+},
+{
+pos = (823,0);
+ref = "aeMatra-sinhala";
+}
+);
+};
 layerId = m01;
 shapes = (
 {
 ref = "ra-sinhala";
 },
 {
-pos = (829,0);
+pos = (823,0);
 ref = "aeMatra-sinhala";
 }
 );
-width = 1363;
+width = 1367;
 },
 {
 layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
@@ -21,11 +32,11 @@ shapes = (
 ref = "ra-sinhala";
 },
 {
-pos = (829,0);
+pos = (823,0);
 ref = "aeMatra-sinhala";
 }
 );
-width = 1390;
+width = 1384;
 }
 );
 }

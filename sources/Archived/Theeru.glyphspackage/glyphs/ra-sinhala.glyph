@@ -1,0 +1,92 @@
+{
+glyphname = "ra-sinhala";
+layers = (
+{
+anchors = (
+{
+name = iMatra;
+pos = (75,760);
+},
+{
+name = virama;
+pos = (115,797);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(283,637,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(402,763,o),
+(787,815,o),
+(692,437,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(597,59,o),
+(115,-183,o),
+(115,292,cs),
+(115,770,o),
+(407,1084,o),
+(662,1281,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+})
+);
+}
+);
+width = 823;
+},
+{
+anchors = (
+{
+name = iMatra;
+pos = (65,800);
+},
+{
+name = virama;
+pos = (115,897);
+}
+);
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(283,637,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(402,763,o),
+(787,815,o),
+(692,437,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(597,59,o),
+(115,-183,o),
+(115,292,cs),
+(115,770,o),
+(407,1084,o),
+(662,1281,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+})
+);
+}
+);
+width = 823;
+}
+);
+unicode = 3515;
+}

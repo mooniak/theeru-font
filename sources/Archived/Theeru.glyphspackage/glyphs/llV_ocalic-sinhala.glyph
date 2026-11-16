@@ -1,0 +1,32 @@
+{
+glyphname = "llVocalic-sinhala";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "lVocalic-sinhala";
+},
+{
+pos = (1401,0);
+ref = "lVocalicMatra-sinhala";
+}
+);
+width = 2025;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+ref = "lVocalic-sinhala";
+},
+{
+pos = (1418,0);
+ref = "lVocalicMatra-sinhala";
+}
+);
+width = 2039;
+}
+);
+unicode = 3472;
+}

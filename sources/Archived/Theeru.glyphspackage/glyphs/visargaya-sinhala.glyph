@@ -1,0 +1,93 @@
+{
+category = Mark;
+glyphname = "visargaya-sinhala";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(362,737,o),
+(331,556,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(309,426,o),
+(135,391,o),
+(135,511,cs),
+(135,698,o)
+);
+},
+{
+closed = 1;
+nodes = (
+(322,348,o),
+(291,167,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(269,37,o),
+(95,2,o),
+(95,122,cs),
+(95,309,o)
+);
+}
+);
+width = 450;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 1;
+nodes = (
+(362,737,o),
+(331,556,cs,{
+"Letterink-NibData" = {
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
+};
+}),
+(309,426,o),
+(135,391,o),
+(135,511,cs,{
+"Letterink-NibData" = {
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
+};
+}),
+(135,698,o)
+);
+},
+{
+closed = 1;
+nodes = (
+(322,348,o),
+(291,167,cs,{
+"Letterink-NibData" = {
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
+};
+}),
+(269,37,o),
+(95,2,o),
+(95,122,cs,{
+"Letterink-NibData" = {
+MinorAxisWidth = -40;
+ValidForParentMinorAxisWidth = 180;
+};
+}),
+(95,309,o)
+);
+}
+);
+width = 450;
+}
+);
+script = sinhala;
+subCategory = Spacing;
+unicode = 3459;
+}

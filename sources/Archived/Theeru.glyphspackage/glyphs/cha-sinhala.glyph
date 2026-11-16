@@ -1,0 +1,150 @@
+{
+glyphname = "cha-sinhala";
+layers = (
+{
+anchors = (
+{
+name = iMatra;
+pos = (487,760);
+},
+{
+name = rakar;
+pos = (823,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(85,695,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(258,768,o),
+(374,722,o),
+(374,619,cs),
+(374,540,o),
+(290,480,o),
+(163,324,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(45,179,o),
+(56,-4,o),
+(476,49,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(858,97,o),
+(889,460,o),
+(709,589,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(593,672,o),
+(513,591,o),
+(486,466,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(465,370,o),
+(530,324,o),
+(564,324,cs),
+(638,324,o),
+(676,394,o),
+(701,459,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(1012,1276,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+})
+);
+}
+);
+width = 967;
+},
+{
+anchors = (
+{
+name = iMatra;
+pos = (467,800);
+},
+{
+name = rakar;
+pos = (823,0);
+}
+);
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(85,695,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(258,768,o),
+(374,722,o),
+(374,619,cs),
+(374,540,o),
+(290,480,o),
+(163,324,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(45,179,o),
+(56,-4,o),
+(476,49,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(858,97,o),
+(889,460,o),
+(709,589,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(593,672,o),
+(513,591,o),
+(486,466,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(465,370,o),
+(530,324,o),
+(564,324,cs),
+(638,324,o),
+(676,394,o),
+(701,459,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+}),
+(1012,1276,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 360;
+};
+})
+);
+}
+);
+width = 967;
+}
+);
+unicode = 3489;
+}

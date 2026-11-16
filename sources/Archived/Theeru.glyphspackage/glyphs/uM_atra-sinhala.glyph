@@ -1,0 +1,65 @@
+{
+category = Mark;
+glyphname = "uMatra-sinhala";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(-136,5,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(-125,-365,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(-280,-323,o),
+(-562,-267,o),
+(-870,-303,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+})
+);
+}
+);
+width = 0;
+},
+{
+layerId = "E709769C-42F1-4D29-B095-21FC93F07D45";
+shapes = (
+{
+closed = 0;
+nodes = (
+(-136,5,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(-125,-365,l,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+}),
+(-280,-323,o),
+(-562,-267,o),
+(-870,-303,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = 0;
+};
+})
+);
+}
+);
+width = 0;
+}
+);
+script = sinhala;
+subCategory = Nonspacing;
+unicode = 3540;
+}
