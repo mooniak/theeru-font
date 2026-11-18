@@ -5,6 +5,7 @@
 [![Build][badge-build]][link-build]
 [![Fontspector QA][badge-qa]][link-qa]
 [![Release][badge-release]][link-release]
+[![License: OFL 1.1][badge-license]][link-license]
 
 [badge-build]: https://github.com/mooniak/theeru-font/actions/workflows/build.yaml/badge.svg?branch=dev
 [badge-qa]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsrc.mooniak.com%2Ftheeru-font%2Fbuild.json&query=%24.qa.pass_rate&suffix=%25&label=fontspector%20QA%20(dev%20build)&color=informational
@@ -12,8 +13,13 @@
 [link-build]: https://github.com/mooniak/theeru-font/actions/workflows/build.yaml
 [link-qa]: https://src.mooniak.com/theeru-font/reports/fontspector/fontspector-report.html
 [link-release]: https://github.com/mooniak/theeru-font/releases
+[badge-license]: https://img.shields.io/badge/license-OFL--1.1-green
+[link-license]: OFL.txt
 
 Theeru is an open-source font family for comics and graphic storytelling from Mooniak, initiated with support from comic artist Sachi Ediriweera. The font currently covers Sinhala only, designed by Kosala Senevirathne; Mooniak and Sachi plan to extend it to support other languages of the South Asian region.
+
+![Theeru specimen](documentation/image1.png)
+![Theeru character set](documentation/image2.png)
 
 ***
 
