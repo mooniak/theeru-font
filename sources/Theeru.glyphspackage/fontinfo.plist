@@ -1256,7 +1256,7 @@ vertical_stem_upper
 }
 );
 date = "2024-07-24 10:41:21 +0000";
-familyName = ComicSinhala;
+familyName = Theeru;
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;
@@ -1369,7 +1369,7 @@ tag = psts;
 fontMaster = (
 {
 axesValues = (
-0
+400
 );
 customParameters = (
 {
@@ -1411,7 +1411,7 @@ MinorAxisWidth = 120;
 },
 {
 axesValues = (
-100
+700
 );
 customParameters = (
 {
@@ -1441,6 +1441,7 @@ pos = 800;
 }
 );
 name = Bold;
+weightClass = Bold;
 userData = {
 "Letterink-NibData" = {
 MainAxisWidth = 140;
@@ -1452,7 +1453,7 @@ MinorAxisWidth = 180;
 instances = (
 {
 axesValues = (
-0
+400
 );
 instanceInterpolations = {
 m01 = 1;
@@ -1461,22 +1462,24 @@ name = Regular;
 },
 {
 axesValues = (
-50
+500
 );
 instanceInterpolations = {
 "E709769C-42F1-4D29-B095-21FC93F07D45" = 0.5;
 m01 = 0.5;
 };
 name = Medium;
+weightClass = Medium;
 },
 {
 axesValues = (
-100
+700
 );
 instanceInterpolations = {
 "E709769C-42F1-4D29-B095-21FC93F07D45" = 1;
 };
 name = Bold;
+weightClass = Bold;
 }
 );
 kerningLTR = {
